@@ -1,0 +1,2113 @@
+annee,libgeo,reglib,nb_j_can,dep,reg,nom_region
+2008,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2013,Ain,Auvergne et Rhône-Alpes,3.0,01,84,Auvergne-Rhône-Alpes
+2015,Ain,Auvergne et Rhône-Alpes,11.0,01,84,Auvergne-Rhône-Alpes
+2017,Ain,Auvergne et Rhône-Alpes,10.0,01,84,Auvergne-Rhône-Alpes
+2018,Ain,Auvergne et Rhône-Alpes,5.0,01,84,Auvergne-Rhône-Alpes
+2019,Ain,Auvergne et Rhône-Alpes,3.0,01,84,Auvergne-Rhône-Alpes
+2020,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2021,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2025,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2004,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2007,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2010,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2011,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2014,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2018,Aisne,Hauts-de-France,3.0,02,32,Hauts-de-France
+2019,Aisne,Hauts-de-France,4.0,02,32,Hauts-de-France
+2022,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2005,Allier,Auvergne et Rhône-Alpes,3.0,03,84,Auvergne-Rhône-Alpes
+2007,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2008,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2009,Allier,Auvergne et Rhône-Alpes,3.0,03,84,Auvergne-Rhône-Alpes
+2013,Allier,Auvergne et Rhône-Alpes,3.0,03,84,Auvergne-Rhône-Alpes
+2014,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2017,Allier,Auvergne et Rhône-Alpes,4.0,03,84,Auvergne-Rhône-Alpes
+2019,Allier,Auvergne et Rhône-Alpes,6.0,03,84,Auvergne-Rhône-Alpes
+2020,Allier,Auvergne et Rhône-Alpes,3.0,03,84,Auvergne-Rhône-Alpes
+2004,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2007,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,3.0,04,93,Provence-Alpes-Côte d'Azur
+2014,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2015,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,4.0,04,93,Provence-Alpes-Côte d'Azur
+2019,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,11.0,04,93,Provence-Alpes-Côte d'Azur
+2023,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,6.0,04,93,Provence-Alpes-Côte d'Azur
+2025,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,11.0,04,93,Provence-Alpes-Côte d'Azur
+2005,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2010,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2012,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2019,Hautes-Alpes,Provence-Alpes-Côte d'Azur,7.0,05,93,Provence-Alpes-Côte d'Azur
+2021,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2023,Hautes-Alpes,Provence-Alpes-Côte d'Azur,7.0,05,93,Provence-Alpes-Côte d'Azur
+2025,Hautes-Alpes,Provence-Alpes-Côte d'Azur,8.0,05,93,Provence-Alpes-Côte d'Azur
+2005,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,0.0,06,93,Provence-Alpes-Côte d'Azur
+2008,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,3.0,06,93,Provence-Alpes-Côte d'Azur
+2011,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,4.0,06,93,Provence-Alpes-Côte d'Azur
+2016,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,0.0,06,93,Provence-Alpes-Côte d'Azur
+2018,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,17.0,06,93,Provence-Alpes-Côte d'Azur
+2005,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2015,Ardèche,Auvergne et Rhône-Alpes,13.0,07,84,Auvergne-Rhône-Alpes
+2021,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2023,Ardèche,Auvergne et Rhône-Alpes,7.0,07,84,Auvergne-Rhône-Alpes
+2008,Ardennes,Grand Est,0.0,08,44,Grand Est
+2012,Ardennes,Grand Est,0.0,08,44,Grand Est
+2013,Ardennes,Grand Est,0.0,08,44,Grand Est
+2023,Ardennes,Grand Est,0.0,08,44,Grand Est
+2005,Ariège,Occitanie,0.0,09,76,Occitanie
+2006,Ariège,Occitanie,0.0,09,76,Occitanie
+2011,Ariège,Occitanie,0.0,09,76,Occitanie
+2012,Ariège,Occitanie,0.0,09,76,Occitanie
+2013,Ariège,Occitanie,0.0,09,76,Occitanie
+2016,Ariège,Occitanie,0.0,09,76,Occitanie
+2017,Ariège,Occitanie,0.0,09,76,Occitanie
+2018,Ariège,Occitanie,0.0,09,76,Occitanie
+2025,Ariège,Occitanie,0.0,09,76,Occitanie
+2010,Aube,Grand Est,0.0,10,44,Grand Est
+2012,Aube,Grand Est,3.0,10,44,Grand Est
+2014,Aube,Grand Est,0.0,10,44,Grand Est
+2015,Aube,Grand Est,4.0,10,44,Grand Est
+2018,Aube,Grand Est,3.0,10,44,Grand Est
+2020,Aube,Grand Est,5.0,10,44,Grand Est
+2022,Aube,Grand Est,0.0,10,44,Grand Est
+2007,Aude,Occitanie,0.0,11,76,Occitanie
+2008,Aude,Occitanie,0.0,11,76,Occitanie
+2010,Aude,Occitanie,0.0,11,76,Occitanie
+2015,Aude,Occitanie,3.0,11,76,Occitanie
+2019,Aude,Occitanie,0.0,11,76,Occitanie
+2021,Aude,Occitanie,0.0,11,76,Occitanie
+2022,Aude,Occitanie,4.0,11,76,Occitanie
+2005,Aveyron,Occitanie,0.0,12,76,Occitanie
+2016,Aveyron,Occitanie,0.0,12,76,Occitanie
+2021,Aveyron,Occitanie,0.0,12,76,Occitanie
+2025,Aveyron,Occitanie,0.0,12,76,Occitanie
+2005,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,3.0,13,93,Provence-Alpes-Côte d'Azur
+2007,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2010,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2012,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2018,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,6.0,13,93,Provence-Alpes-Côte d'Azur
+2020,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2004,Calvados,Normandie,0.0,14,28,Normandie
+2005,Calvados,Normandie,0.0,14,28,Normandie
+2009,Calvados,Normandie,0.0,14,28,Normandie
+2012,Calvados,Normandie,0.0,14,28,Normandie
+2013,Calvados,Normandie,0.0,14,28,Normandie
+2014,Calvados,Normandie,0.0,14,28,Normandie
+2015,Calvados,Normandie,0.0,14,28,Normandie
+2020,Calvados,Normandie,0.0,14,28,Normandie
+2024,Calvados,Normandie,0.0,14,28,Normandie
+2007,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2011,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2014,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2015,Cantal,Auvergne et Rhône-Alpes,10.0,15,84,Auvergne-Rhône-Alpes
+2023,Cantal,Auvergne et Rhône-Alpes,7.0,15,84,Auvergne-Rhône-Alpes
+2024,Cantal,Auvergne et Rhône-Alpes,4.0,15,84,Auvergne-Rhône-Alpes
+2004,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2007,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2008,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2011,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2013,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2020,Charente,Nouvelle Aquitaine,5.0,16,75,Nouvelle-Aquitaine
+2021,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2006,Charente-Maritime,Nouvelle Aquitaine,5.0,17,75,Nouvelle-Aquitaine
+2007,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2011,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2014,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2018,Charente-Maritime,Nouvelle Aquitaine,3.0,17,75,Nouvelle-Aquitaine
+2022,Charente-Maritime,Nouvelle Aquitaine,9.0,17,75,Nouvelle-Aquitaine
+2024,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2008,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2009,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2011,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2012,Cher,Centre-Val de Loire,4.0,18,24,Centre-Val de Loire
+2014,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2017,Cher,Centre-Val de Loire,4.0,18,24,Centre-Val de Loire
+2018,Cher,Centre-Val de Loire,4.0,18,24,Centre-Val de Loire
+2025,Cher,Centre-Val de Loire,9.0,18,24,Centre-Val de Loire
+2005,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2006,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2008,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2010,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2011,Corrèze,Nouvelle Aquitaine,3.0,19,75,Nouvelle-Aquitaine
+2015,Corrèze,Nouvelle Aquitaine,5.0,19,75,Nouvelle-Aquitaine
+2017,Corrèze,Nouvelle Aquitaine,3.0,19,75,Nouvelle-Aquitaine
+2020,Corrèze,Nouvelle Aquitaine,8.0,19,75,Nouvelle-Aquitaine
+2022,Corrèze,Nouvelle Aquitaine,6.0,19,75,Nouvelle-Aquitaine
+2011,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2013,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2014,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2015,Côte-d'Or,Bourgogne et Franche-Comté,9.0,21,27,Bourgogne-Franche-Comté
+2016,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2019,Côte-d'Or,Bourgogne et Franche-Comté,11.0,21,27,Bourgogne-Franche-Comté
+2022,Côte-d'Or,Bourgogne et Franche-Comté,6.0,21,27,Bourgogne-Franche-Comté
+2023,Côte-d'Or,Bourgogne et Franche-Comté,12.0,21,27,Bourgogne-Franche-Comté
+2004,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2008,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2015,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2016,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2017,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2019,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2023,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2024,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2004,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2006,Creuse,Nouvelle Aquitaine,3.0,23,75,Nouvelle-Aquitaine
+2008,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2015,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2018,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2019,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2020,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2005,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2008,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2015,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2016,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2017,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2018,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2019,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2021,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2022,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2005,Doubs,Bourgogne et Franche-Comté,3.0,25,27,Bourgogne-Franche-Comté
+2006,Doubs,Bourgogne et Franche-Comté,10.0,25,27,Bourgogne-Franche-Comté
+2008,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2010,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2012,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2014,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2015,Doubs,Bourgogne et Franche-Comté,14.0,25,27,Bourgogne-Franche-Comté
+2018,Doubs,Bourgogne et Franche-Comté,9.0,25,27,Bourgogne-Franche-Comté
+2019,Doubs,Bourgogne et Franche-Comté,11.0,25,27,Bourgogne-Franche-Comté
+2025,Doubs,Bourgogne et Franche-Comté,10.0,25,27,Bourgogne-Franche-Comté
+2005,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2008,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2009,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2012,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2013,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2016,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2020,Drôme,Auvergne et Rhône-Alpes,5.0,26,84,Auvergne-Rhône-Alpes
+2025,Drôme,Auvergne et Rhône-Alpes,18.0,26,84,Auvergne-Rhône-Alpes
+2008,Eure,Normandie,0.0,27,28,Normandie
+2009,Eure,Normandie,0.0,27,28,Normandie
+2010,Eure,Normandie,0.0,27,28,Normandie
+2011,Eure,Normandie,0.0,27,28,Normandie
+2012,Eure,Normandie,0.0,27,28,Normandie
+2013,Eure,Normandie,0.0,27,28,Normandie
+2014,Eure,Normandie,0.0,27,28,Normandie
+2019,Eure,Normandie,4.0,27,28,Normandie
+2021,Eure,Normandie,0.0,27,28,Normandie
+2022,Eure,Normandie,3.0,27,28,Normandie
+2023,Eure,Normandie,0.0,27,28,Normandie
+2025,Eure,Normandie,0.0,27,28,Normandie
+2006,Eure-et-Loir,Centre-Val de Loire,3.0,28,24,Centre-Val de Loire
+2007,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2010,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2011,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2013,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2017,Eure-et-Loir,Centre-Val de Loire,7.0,28,24,Centre-Val de Loire
+2019,Eure-et-Loir,Centre-Val de Loire,7.0,28,24,Centre-Val de Loire
+2022,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2024,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2008,Finistère,Bretagne,0.0,29,53,Bretagne
+2011,Finistère,Bretagne,0.0,29,53,Bretagne
+2012,Finistère,Bretagne,0.0,29,53,Bretagne
+2013,Finistère,Bretagne,0.0,29,53,Bretagne
+2015,Finistère,Bretagne,0.0,29,53,Bretagne
+2018,Finistère,Bretagne,0.0,29,53,Bretagne
+2021,Finistère,Bretagne,0.0,29,53,Bretagne
+2022,Finistère,Bretagne,8.0,29,53,Bretagne
+2023,Finistère,Bretagne,0.0,29,53,Bretagne
+2007,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2009,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2012,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2013,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2020,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2021,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2022,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2008,Haute-Corse,Corse,0.0,2B,94,Corse
+2013,Haute-Corse,Corse,0.0,2B,94,Corse
+2016,Haute-Corse,Corse,0.0,2B,94,Corse
+2017,Haute-Corse,Corse,0.0,2B,94,Corse
+2018,Haute-Corse,Corse,8.0,2B,94,Corse
+2019,Haute-Corse,Corse,3.0,2B,94,Corse
+2020,Haute-Corse,Corse,0.0,2B,94,Corse
+2021,Haute-Corse,Corse,0.0,2B,94,Corse
+2007,Gard,Occitanie,0.0,30,76,Occitanie
+2008,Gard,Occitanie,0.0,30,76,Occitanie
+2009,Gard,Occitanie,0.0,30,76,Occitanie
+2012,Gard,Occitanie,0.0,30,76,Occitanie
+2013,Gard,Occitanie,0.0,30,76,Occitanie
+2016,Gard,Occitanie,0.0,30,76,Occitanie
+2017,Gard,Occitanie,3.0,30,76,Occitanie
+2018,Gard,Occitanie,6.0,30,76,Occitanie
+2023,Gard,Occitanie,10.0,30,76,Occitanie
+2025,Gard,Occitanie,14.0,30,76,Occitanie
+2004,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2013,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2016,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2018,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2019,Haute-Garonne,Occitanie,13.0,31,76,Occitanie
+2020,Haute-Garonne,Occitanie,8.0,31,76,Occitanie
+2022,Haute-Garonne,Occitanie,13.0,31,76,Occitanie
+2025,Haute-Garonne,Occitanie,13.0,31,76,Occitanie
+2004,Gers,Occitanie,0.0,32,76,Occitanie
+2007,Gers,Occitanie,0.0,32,76,Occitanie
+2015,Gers,Occitanie,0.0,32,76,Occitanie
+2017,Gers,Occitanie,3.0,32,76,Occitanie
+2022,Gers,Occitanie,0.0,32,76,Occitanie
+2023,Gers,Occitanie,7.0,32,76,Occitanie
+2006,Gironde,Nouvelle Aquitaine,8.0,33,75,Nouvelle-Aquitaine
+2007,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2009,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2010,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2011,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2013,Gironde,Nouvelle Aquitaine,3.0,33,75,Nouvelle-Aquitaine
+2016,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2017,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2021,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2024,Gironde,Nouvelle Aquitaine,3.0,33,75,Nouvelle-Aquitaine
+2025,Gironde,Nouvelle Aquitaine,6.0,33,75,Nouvelle-Aquitaine
+2005,Hérault,Occitanie,0.0,34,76,Occitanie
+2011,Hérault,Occitanie,0.0,34,76,Occitanie
+2014,Hérault,Occitanie,0.0,34,76,Occitanie
+2015,Hérault,Occitanie,7.0,34,76,Occitanie
+2017,Hérault,Occitanie,4.0,34,76,Occitanie
+2018,Hérault,Occitanie,6.0,34,76,Occitanie
+2020,Hérault,Occitanie,3.0,34,76,Occitanie
+2024,Hérault,Occitanie,0.0,34,76,Occitanie
+2008,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2020,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2021,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2004,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2006,Indre,Centre-Val de Loire,8.0,36,24,Centre-Val de Loire
+2009,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2010,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2013,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2005,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2006,Indre-et-Loire,Centre-Val de Loire,6.0,37,24,Centre-Val de Loire
+2013,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2014,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2017,Indre-et-Loire,Centre-Val de Loire,4.0,37,24,Centre-Val de Loire
+2021,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2023,Indre-et-Loire,Centre-Val de Loire,3.0,37,24,Centre-Val de Loire
+2007,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2014,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2015,Isère,Auvergne et Rhône-Alpes,16.0,38,84,Auvergne-Rhône-Alpes
+2020,Isère,Auvergne et Rhône-Alpes,15.0,38,84,Auvergne-Rhône-Alpes
+2006,Jura,Bourgogne et Franche-Comté,7.0,39,27,Bourgogne-Franche-Comté
+2008,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2009,Jura,Bourgogne et Franche-Comté,3.0,39,27,Bourgogne-Franche-Comté
+2015,Jura,Bourgogne et Franche-Comté,15.0,39,27,Bourgogne-Franche-Comté
+2018,Jura,Bourgogne et Franche-Comté,10.0,39,27,Bourgogne-Franche-Comté
+2023,Jura,Bourgogne et Franche-Comté,12.0,39,27,Bourgogne-Franche-Comté
+2004,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2007,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2009,Landes,Nouvelle Aquitaine,3.0,40,75,Nouvelle-Aquitaine
+2014,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2016,Landes,Nouvelle Aquitaine,4.0,40,75,Nouvelle-Aquitaine
+2023,Landes,Nouvelle Aquitaine,7.0,40,75,Nouvelle-Aquitaine
+2025,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2008,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2011,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2014,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2015,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2016,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2017,Loir-et-Cher,Centre-Val de Loire,4.0,41,24,Centre-Val de Loire
+2004,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2006,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2009,Loire,Auvergne et Rhône-Alpes,4.0,42,84,Auvergne-Rhône-Alpes
+2012,Loire,Auvergne et Rhône-Alpes,4.0,42,84,Auvergne-Rhône-Alpes
+2016,Loire,Auvergne et Rhône-Alpes,3.0,42,84,Auvergne-Rhône-Alpes
+2017,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2019,Loire,Auvergne et Rhône-Alpes,5.0,42,84,Auvergne-Rhône-Alpes
+2004,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2005,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2010,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2011,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2017,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2019,Haute-Loire,Auvergne et Rhône-Alpes,12.0,43,84,Auvergne-Rhône-Alpes
+2021,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2006,Loire-Atlantique,Pays de la Loire,4.0,44,52,Pays de la Loire
+2007,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2011,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2012,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2017,Loire-Atlantique,Pays de la Loire,3.0,44,52,Pays de la Loire
+2020,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2021,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2022,Loire-Atlantique,Pays de la Loire,7.0,44,52,Pays de la Loire
+2024,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2005,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2006,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2008,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2009,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2011,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2012,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2014,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2015,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2018,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2005,Lot,Occitanie,0.0,46,76,Occitanie
+2007,Lot,Occitanie,0.0,46,76,Occitanie
+2008,Lot,Occitanie,0.0,46,76,Occitanie
+2010,Lot,Occitanie,0.0,46,76,Occitanie
+2013,Lot,Occitanie,0.0,46,76,Occitanie
+2020,Lot,Occitanie,6.0,46,76,Occitanie
+2021,Lot,Occitanie,0.0,46,76,Occitanie
+2025,Lot,Occitanie,3.0,46,76,Occitanie
+2007,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2013,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2018,Lot-et-Garonne,Nouvelle Aquitaine,4.0,47,75,Nouvelle-Aquitaine
+2023,Lot-et-Garonne,Nouvelle Aquitaine,8.0,47,75,Nouvelle-Aquitaine
+2024,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2006,Lozère,Occitanie,0.0,48,76,Occitanie
+2010,Lozère,Occitanie,0.0,48,76,Occitanie
+2013,Lozère,Occitanie,0.0,48,76,Occitanie
+2016,Lozère,Occitanie,0.0,48,76,Occitanie
+2017,Lozère,Occitanie,0.0,48,76,Occitanie
+2022,Lozère,Occitanie,0.0,48,76,Occitanie
+2023,Lozère,Occitanie,0.0,48,76,Occitanie
+2007,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2010,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2019,Maine-et-Loire,Pays de la Loire,9.0,49,52,Pays de la Loire
+2024,Maine-et-Loire,Pays de la Loire,3.0,49,52,Pays de la Loire
+2025,Maine-et-Loire,Pays de la Loire,3.0,49,52,Pays de la Loire
+2007,Manche,Normandie,0.0,50,28,Normandie
+2019,Manche,Normandie,0.0,50,28,Normandie
+2005,Marne,Grand Est,0.0,51,44,Grand Est
+2008,Marne,Grand Est,0.0,51,44,Grand Est
+2009,Marne,Grand Est,0.0,51,44,Grand Est
+2012,Marne,Grand Est,0.0,51,44,Grand Est
+2020,Marne,Grand Est,5.0,51,44,Grand Est
+2022,Marne,Grand Est,0.0,51,44,Grand Est
+2009,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2010,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2012,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2014,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2016,Haute-Marne,Grand Est,3.0,52,44,Grand Est
+2018,Haute-Marne,Grand Est,8.0,52,44,Grand Est
+2021,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2022,Haute-Marne,Grand Est,7.0,52,44,Grand Est
+2025,Haute-Marne,Grand Est,9.0,52,44,Grand Est
+2004,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2006,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2010,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2012,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2018,Mayenne,Pays de la Loire,3.0,53,52,Pays de la Loire
+2021,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2023,Mayenne,Pays de la Loire,7.0,53,52,Pays de la Loire
+2025,Mayenne,Pays de la Loire,3.0,53,52,Pays de la Loire
+2006,Meurthe-et-Moselle,Grand Est,7.0,54,44,Grand Est
+2007,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2015,Meurthe-et-Moselle,Grand Est,13.0,54,44,Grand Est
+2016,Meurthe-et-Moselle,Grand Est,3.0,54,44,Grand Est
+2020,Meurthe-et-Moselle,Grand Est,6.0,54,44,Grand Est
+2021,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2022,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2023,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2024,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2008,Meuse,Grand Est,0.0,55,44,Grand Est
+2011,Meuse,Grand Est,0.0,55,44,Grand Est
+2013,Meuse,Grand Est,0.0,55,44,Grand Est
+2015,Meuse,Grand Est,4.0,55,44,Grand Est
+2017,Meuse,Grand Est,0.0,55,44,Grand Est
+2021,Meuse,Grand Est,0.0,55,44,Grand Est
+2005,Morbihan,Bretagne,0.0,56,53,Bretagne
+2006,Morbihan,Bretagne,3.0,56,53,Bretagne
+2007,Morbihan,Bretagne,0.0,56,53,Bretagne
+2008,Morbihan,Bretagne,0.0,56,53,Bretagne
+2011,Morbihan,Bretagne,0.0,56,53,Bretagne
+2013,Morbihan,Bretagne,0.0,56,53,Bretagne
+2018,Morbihan,Bretagne,0.0,56,53,Bretagne
+2019,Morbihan,Bretagne,3.0,56,53,Bretagne
+2020,Morbihan,Bretagne,0.0,56,53,Bretagne
+2022,Morbihan,Bretagne,4.0,56,53,Bretagne
+2023,Morbihan,Bretagne,0.0,56,53,Bretagne
+2004,Moselle,Grand Est,0.0,57,44,Grand Est
+2006,Moselle,Grand Est,4.0,57,44,Grand Est
+2014,Moselle,Grand Est,0.0,57,44,Grand Est
+2023,Moselle,Grand Est,0.0,57,44,Grand Est
+2024,Moselle,Grand Est,0.0,57,44,Grand Est
+2006,Nièvre,Bourgogne et Franche-Comté,6.0,58,27,Bourgogne-Franche-Comté
+2007,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2009,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2010,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2014,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2015,Nièvre,Bourgogne et Franche-Comté,11.0,58,27,Bourgogne-Franche-Comté
+2016,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2017,Nièvre,Bourgogne et Franche-Comté,3.0,58,27,Bourgogne-Franche-Comté
+2021,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2023,Nièvre,Bourgogne et Franche-Comté,6.0,58,27,Bourgogne-Franche-Comté
+2024,Nièvre,Bourgogne et Franche-Comté,3.0,58,27,Bourgogne-Franche-Comté
+2025,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2005,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2007,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2008,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2024,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2011,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2014,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2019,Oise,Hauts-de-France,3.0,60,32,Hauts-de-France
+2022,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2023,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2024,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2005,Orne,Normandie,0.0,61,28,Normandie
+2006,Orne,Normandie,0.0,61,28,Normandie
+2010,Orne,Normandie,0.0,61,28,Normandie
+2012,Orne,Normandie,0.0,61,28,Normandie
+2014,Orne,Normandie,0.0,61,28,Normandie
+2015,Orne,Normandie,0.0,61,28,Normandie
+2017,Orne,Normandie,4.0,61,28,Normandie
+2018,Orne,Normandie,0.0,61,28,Normandie
+2024,Orne,Normandie,0.0,61,28,Normandie
+2025,Orne,Normandie,0.0,61,28,Normandie
+2004,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2005,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2008,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2010,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2019,Pas-de-Calais,Hauts-de-France,4.0,62,32,Hauts-de-France
+2023,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2005,Puy-de-Dôme,Auvergne et Rhône-Alpes,3.0,63,84,Auvergne-Rhône-Alpes
+2006,Puy-de-Dôme,Auvergne et Rhône-Alpes,6.0,63,84,Auvergne-Rhône-Alpes
+2008,Puy-de-Dôme,Auvergne et Rhône-Alpes,0.0,63,84,Auvergne-Rhône-Alpes
+2013,Puy-de-Dôme,Auvergne et Rhône-Alpes,3.0,63,84,Auvergne-Rhône-Alpes
+2022,Puy-de-Dôme,Auvergne et Rhône-Alpes,8.0,63,84,Auvergne-Rhône-Alpes
+2004,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2010,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2016,Pyrénées-Atlantiques,Nouvelle Aquitaine,3.0,64,75,Nouvelle-Aquitaine
+2018,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2020,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2021,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2023,Pyrénées-Atlantiques,Nouvelle Aquitaine,4.0,64,75,Nouvelle-Aquitaine
+2024,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2005,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2007,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2012,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2014,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2022,Hautes-Pyrénées,Occitanie,10.0,65,76,Occitanie
+2006,Pyrénées-Orientales,Occitanie,8.0,66,76,Occitanie
+2008,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2013,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2014,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2015,Pyrénées-Orientales,Occitanie,7.0,66,76,Occitanie
+2016,Pyrénées-Orientales,Occitanie,4.0,66,76,Occitanie
+2024,Pyrénées-Orientales,Occitanie,12.0,66,76,Occitanie
+2006,Bas-Rhin,Grand Est,7.0,67,44,Grand Est
+2007,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2011,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2013,Bas-Rhin,Grand Est,3.0,67,44,Grand Est
+2019,Bas-Rhin,Grand Est,8.0,67,44,Grand Est
+2020,Bas-Rhin,Grand Est,3.0,67,44,Grand Est
+2022,Bas-Rhin,Grand Est,3.0,67,44,Grand Est
+2024,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2025,Bas-Rhin,Grand Est,4.0,67,44,Grand Est
+2005,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2006,Haut-Rhin,Grand Est,3.0,68,44,Grand Est
+2008,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2010,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2011,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2021,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2025,Haut-Rhin,Grand Est,4.0,68,44,Grand Est
+2008,Rhône,Auvergne et Rhône-Alpes,0.0,69,84,Auvergne-Rhône-Alpes
+2009,Rhône,Auvergne et Rhône-Alpes,5.0,69,84,Auvergne-Rhône-Alpes
+2010,Rhône,Auvergne et Rhône-Alpes,7.0,69,84,Auvergne-Rhône-Alpes
+2017,Rhône,Auvergne et Rhône-Alpes,21.0,69,84,Auvergne-Rhône-Alpes
+2018,Rhône,Auvergne et Rhône-Alpes,14.0,69,84,Auvergne-Rhône-Alpes
+2021,Rhône,Auvergne et Rhône-Alpes,3.0,69,84,Auvergne-Rhône-Alpes
+2023,Rhône,Auvergne et Rhône-Alpes,17.0,69,84,Auvergne-Rhône-Alpes
+2025,Rhône,Auvergne et Rhône-Alpes,14.0,69,84,Auvergne-Rhône-Alpes
+2005,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2008,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2012,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2013,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2014,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2018,Haute-Saône,Bourgogne et Franche-Comté,4.0,70,27,Bourgogne-Franche-Comté
+2020,Haute-Saône,Bourgogne et Franche-Comté,3.0,70,27,Bourgogne-Franche-Comté
+2022,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2025,Haute-Saône,Bourgogne et Franche-Comté,3.0,70,27,Bourgogne-Franche-Comté
+2004,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2008,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2009,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2010,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2011,Saône-et-Loire,Bourgogne et Franche-Comté,3.0,71,27,Bourgogne-Franche-Comté
+2004,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2006,Sarthe,Pays de la Loire,3.0,72,52,Pays de la Loire
+2010,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2016,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2020,Sarthe,Pays de la Loire,6.0,72,52,Pays de la Loire
+2021,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2024,Sarthe,Pays de la Loire,4.0,72,52,Pays de la Loire
+2025,Sarthe,Pays de la Loire,3.0,72,52,Pays de la Loire
+2004,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2008,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2009,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2010,Savoie,Auvergne et Rhône-Alpes,6.0,73,84,Auvergne-Rhône-Alpes
+2021,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2022,Savoie,Auvergne et Rhône-Alpes,5.0,73,84,Auvergne-Rhône-Alpes
+2023,Savoie,Auvergne et Rhône-Alpes,10.0,73,84,Auvergne-Rhône-Alpes
+2004,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2006,Haute-Savoie,Auvergne et Rhône-Alpes,4.0,74,84,Auvergne-Rhône-Alpes
+2009,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2010,Haute-Savoie,Auvergne et Rhône-Alpes,6.0,74,84,Auvergne-Rhône-Alpes
+2011,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2022,Haute-Savoie,Auvergne et Rhône-Alpes,5.0,74,84,Auvergne-Rhône-Alpes
+2010,Paris,Île-de-France,4.0,75,11,Île-de-France
+2015,Paris,Île-de-France,6.0,75,11,Île-de-France
+2017,Paris,Île-de-France,5.0,75,11,Île-de-France
+2020,Paris,Île-de-France,7.0,75,11,Île-de-France
+2025,Paris,Île-de-France,3.0,75,11,Île-de-France
+2004,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2006,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2008,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2009,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2015,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2018,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2023,Seine-Maritime,Normandie,3.0,76,28,Normandie
+2005,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2007,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2011,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2017,Seine-et-Marne,Île-de-France,3.0,77,11,Île-de-France
+2023,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2008,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2012,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2014,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2015,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2017,Yvelines,Île-de-France,3.0,78,11,Île-de-France
+2008,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2010,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2012,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2013,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2014,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2017,Deux-Sèvres,Nouvelle Aquitaine,3.0,79,75,Nouvelle-Aquitaine
+2021,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2022,Deux-Sèvres,Nouvelle Aquitaine,14.0,79,75,Nouvelle-Aquitaine
+2004,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2005,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2008,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2019,Somme,Hauts-de-France,4.0,80,32,Hauts-de-France
+2023,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2004,Tarn,Occitanie,0.0,81,76,Occitanie
+2005,Tarn,Occitanie,0.0,81,76,Occitanie
+2006,Tarn,Occitanie,3.0,81,76,Occitanie
+2011,Tarn,Occitanie,0.0,81,76,Occitanie
+2012,Tarn,Occitanie,6.0,81,76,Occitanie
+2018,Tarn,Occitanie,6.0,81,76,Occitanie
+2020,Tarn,Occitanie,9.0,81,76,Occitanie
+2004,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2006,Tarn-et-Garonne,Occitanie,3.0,82,76,Occitanie
+2009,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2011,Tarn-et-Garonne,Occitanie,3.0,82,76,Occitanie
+2015,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2004,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2010,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2014,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2015,Var,Provence-Alpes-Côte d'Azur,6.0,83,93,Provence-Alpes-Côte d'Azur
+2018,Var,Provence-Alpes-Côte d'Azur,7.0,83,93,Provence-Alpes-Côte d'Azur
+2020,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2024,Var,Provence-Alpes-Côte d'Azur,4.0,83,93,Provence-Alpes-Côte d'Azur
+2005,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2006,Vaucluse,Provence-Alpes-Côte d'Azur,14.0,84,93,Provence-Alpes-Côte d'Azur
+2010,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2015,Vaucluse,Provence-Alpes-Côte d'Azur,5.0,84,93,Provence-Alpes-Côte d'Azur
+2017,Vaucluse,Provence-Alpes-Côte d'Azur,8.0,84,93,Provence-Alpes-Côte d'Azur
+2022,Vaucluse,Provence-Alpes-Côte d'Azur,22.0,84,93,Provence-Alpes-Côte d'Azur
+2023,Vaucluse,Provence-Alpes-Côte d'Azur,10.0,84,93,Provence-Alpes-Côte d'Azur
+2011,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2017,Vendée,Pays de la Loire,3.0,85,52,Pays de la Loire
+2022,Vendée,Pays de la Loire,7.0,85,52,Pays de la Loire
+2025,Vendée,Pays de la Loire,10.0,85,52,Pays de la Loire
+2008,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2009,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2010,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2012,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2014,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2024,Vienne,Nouvelle Aquitaine,3.0,86,75,Nouvelle-Aquitaine
+2005,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2011,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2018,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2019,Haute-Vienne,Nouvelle Aquitaine,9.0,87,75,Nouvelle-Aquitaine
+2021,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2023,Haute-Vienne,Nouvelle Aquitaine,4.0,87,75,Nouvelle-Aquitaine
+2025,Haute-Vienne,Nouvelle Aquitaine,12.0,87,75,Nouvelle-Aquitaine
+2005,Vosges,Grand Est,0.0,88,44,Grand Est
+2008,Vosges,Grand Est,0.0,88,44,Grand Est
+2010,Vosges,Grand Est,0.0,88,44,Grand Est
+2013,Vosges,Grand Est,0.0,88,44,Grand Est
+2016,Vosges,Grand Est,0.0,88,44,Grand Est
+2017,Vosges,Grand Est,3.0,88,44,Grand Est
+2018,Vosges,Grand Est,4.0,88,44,Grand Est
+2019,Vosges,Grand Est,4.0,88,44,Grand Est
+2025,Vosges,Grand Est,0.0,88,44,Grand Est
+2006,Yonne,Bourgogne et Franche-Comté,8.0,89,27,Bourgogne-Franche-Comté
+2011,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2013,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2015,Yonne,Bourgogne et Franche-Comté,4.0,89,27,Bourgogne-Franche-Comté
+2016,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2019,Yonne,Bourgogne et Franche-Comté,8.0,89,27,Bourgogne-Franche-Comté
+2021,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2025,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2013,Territoire de Belfort,Bourgogne et Franche-Comté,6.0,90,27,Bourgogne-Franche-Comté
+2014,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2016,Territoire de Belfort,Bourgogne et Franche-Comté,3.0,90,27,Bourgogne-Franche-Comté
+2021,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2004,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2005,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2019,Essonne,Île-de-France,5.0,91,11,Île-de-France
+2020,Essonne,Île-de-France,6.0,91,11,Île-de-France
+2021,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2024,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2007,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2008,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2010,Hauts-de-Seine,Île-de-France,4.0,92,11,Île-de-France
+2020,Hauts-de-Seine,Île-de-France,7.0,92,11,Île-de-France
+2023,Hauts-de-Seine,Île-de-France,4.0,92,11,Île-de-France
+2024,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2025,Hauts-de-Seine,Île-de-France,3.0,92,11,Île-de-France
+2006,Seine-Saint-Denis,Île-de-France,12.0,93,11,Île-de-France
+2013,Seine-Saint-Denis,Île-de-France,5.0,93,11,Île-de-France
+2015,Seine-Saint-Denis,Île-de-France,6.0,93,11,Île-de-France
+2018,Seine-Saint-Denis,Île-de-France,12.0,93,11,Île-de-France
+2019,Seine-Saint-Denis,Île-de-France,10.0,93,11,Île-de-France
+2020,Seine-Saint-Denis,Île-de-France,7.0,93,11,Île-de-France
+2006,Val-de-Marne,Île-de-France,12.0,94,11,Île-de-France
+2007,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2008,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2010,Val-de-Marne,Île-de-France,4.0,94,11,Île-de-France
+2011,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2018,Val-de-Marne,Île-de-France,12.0,94,11,Île-de-France
+2019,Val-de-Marne,Île-de-France,10.0,94,11,Île-de-France
+2021,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2025,Val-de-Marne,Île-de-France,3.0,94,11,Île-de-France
+2012,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2013,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2015,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2017,Val-d'Oise,Île-de-France,3.0,95,11,Île-de-France
+2020,Val-d'Oise,Île-de-France,6.0,95,11,Île-de-France
+2004,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2010,Ain,Auvergne et Rhône-Alpes,3.0,01,84,Auvergne-Rhône-Alpes
+2011,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2006,Aisne,Hauts-de-France,4.0,02,32,Hauts-de-France
+2008,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2009,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2013,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2016,Aisne,Hauts-de-France,3.0,02,32,Hauts-de-France
+2017,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2020,Aisne,Hauts-de-France,7.0,02,32,Hauts-de-France
+2021,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2023,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2024,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2004,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2011,Allier,Auvergne et Rhône-Alpes,5.0,03,84,Auvergne-Rhône-Alpes
+2018,Allier,Auvergne et Rhône-Alpes,3.0,03,84,Auvergne-Rhône-Alpes
+2021,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2023,Allier,Auvergne et Rhône-Alpes,12.0,03,84,Auvergne-Rhône-Alpes
+2010,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2016,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2017,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,5.0,04,93,Provence-Alpes-Côte d'Azur
+2018,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2020,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,5.0,04,93,Provence-Alpes-Côte d'Azur
+2007,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2011,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2013,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2015,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2017,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2018,Hautes-Alpes,Provence-Alpes-Côte d'Azur,3.0,05,93,Provence-Alpes-Côte d'Azur
+2020,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2022,Hautes-Alpes,Provence-Alpes-Côte d'Azur,3.0,05,93,Provence-Alpes-Côte d'Azur
+2006,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,16.0,06,93,Provence-Alpes-Côte d'Azur
+2010,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,3.0,06,93,Provence-Alpes-Côte d'Azur
+2015,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,13.0,06,93,Provence-Alpes-Côte d'Azur
+2017,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,4.0,06,93,Provence-Alpes-Côte d'Azur
+2019,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,11.0,06,93,Provence-Alpes-Côte d'Azur
+2021,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,6.0,06,93,Provence-Alpes-Côte d'Azur
+2025,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,20.0,06,93,Provence-Alpes-Côte d'Azur
+2006,Ardèche,Auvergne et Rhône-Alpes,14.0,07,84,Auvergne-Rhône-Alpes
+2008,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2012,Ardèche,Auvergne et Rhône-Alpes,3.0,07,84,Auvergne-Rhône-Alpes
+2014,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2017,Ardèche,Auvergne et Rhône-Alpes,5.0,07,84,Auvergne-Rhône-Alpes
+2018,Ardèche,Auvergne et Rhône-Alpes,12.0,07,84,Auvergne-Rhône-Alpes
+2020,Ardèche,Auvergne et Rhône-Alpes,3.0,07,84,Auvergne-Rhône-Alpes
+2022,Ardèche,Auvergne et Rhône-Alpes,12.0,07,84,Auvergne-Rhône-Alpes
+2024,Ardèche,Auvergne et Rhône-Alpes,3.0,07,84,Auvergne-Rhône-Alpes
+2025,Ardèche,Auvergne et Rhône-Alpes,17.0,07,84,Auvergne-Rhône-Alpes
+2004,Ardennes,Grand Est,0.0,08,44,Grand Est
+2005,Ardennes,Grand Est,0.0,08,44,Grand Est
+2009,Ardennes,Grand Est,0.0,08,44,Grand Est
+2010,Ardennes,Grand Est,0.0,08,44,Grand Est
+2011,Ardennes,Grand Est,0.0,08,44,Grand Est
+2014,Ardennes,Grand Est,0.0,08,44,Grand Est
+2017,Ardennes,Grand Est,0.0,08,44,Grand Est
+2018,Ardennes,Grand Est,3.0,08,44,Grand Est
+2019,Ardennes,Grand Est,0.0,08,44,Grand Est
+2021,Ardennes,Grand Est,0.0,08,44,Grand Est
+2022,Ardennes,Grand Est,0.0,08,44,Grand Est
+2024,Ardennes,Grand Est,0.0,08,44,Grand Est
+2004,Ariège,Occitanie,0.0,09,76,Occitanie
+2007,Ariège,Occitanie,0.0,09,76,Occitanie
+2009,Ariège,Occitanie,0.0,09,76,Occitanie
+2015,Ariège,Occitanie,0.0,09,76,Occitanie
+2019,Ariège,Occitanie,0.0,09,76,Occitanie
+2020,Ariège,Occitanie,5.0,09,76,Occitanie
+2021,Ariège,Occitanie,0.0,09,76,Occitanie
+2023,Ariège,Occitanie,6.0,09,76,Occitanie
+2007,Aube,Grand Est,0.0,10,44,Grand Est
+2008,Aube,Grand Est,0.0,10,44,Grand Est
+2013,Aube,Grand Est,0.0,10,44,Grand Est
+2016,Aube,Grand Est,0.0,10,44,Grand Est
+2017,Aube,Grand Est,0.0,10,44,Grand Est
+2024,Aube,Grand Est,0.0,10,44,Grand Est
+2025,Aube,Grand Est,3.0,10,44,Grand Est
+2006,Aude,Occitanie,3.0,11,76,Occitanie
+2009,Aude,Occitanie,0.0,11,76,Occitanie
+2011,Aude,Occitanie,0.0,11,76,Occitanie
+2012,Aude,Occitanie,0.0,11,76,Occitanie
+2013,Aude,Occitanie,0.0,11,76,Occitanie
+2014,Aude,Occitanie,0.0,11,76,Occitanie
+2016,Aude,Occitanie,0.0,11,76,Occitanie
+2017,Aude,Occitanie,0.0,11,76,Occitanie
+2023,Aude,Occitanie,7.0,11,76,Occitanie
+2025,Aude,Occitanie,3.0,11,76,Occitanie
+2004,Aveyron,Occitanie,0.0,12,76,Occitanie
+2007,Aveyron,Occitanie,0.0,12,76,Occitanie
+2008,Aveyron,Occitanie,0.0,12,76,Occitanie
+2009,Aveyron,Occitanie,0.0,12,76,Occitanie
+2011,Aveyron,Occitanie,0.0,12,76,Occitanie
+2012,Aveyron,Occitanie,0.0,12,76,Occitanie
+2014,Aveyron,Occitanie,0.0,12,76,Occitanie
+2015,Aveyron,Occitanie,0.0,12,76,Occitanie
+2018,Aveyron,Occitanie,0.0,12,76,Occitanie
+2020,Aveyron,Occitanie,3.0,12,76,Occitanie
+2024,Aveyron,Occitanie,0.0,12,76,Occitanie
+2006,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,26.0,13,93,Provence-Alpes-Côte d'Azur
+2008,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,5.0,13,93,Provence-Alpes-Côte d'Azur
+2009,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2013,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2017,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,7.0,13,93,Provence-Alpes-Côte d'Azur
+2021,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2023,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,8.0,13,93,Provence-Alpes-Côte d'Azur
+2025,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,11.0,13,93,Provence-Alpes-Côte d'Azur
+2016,Calvados,Normandie,0.0,14,28,Normandie
+2017,Calvados,Normandie,0.0,14,28,Normandie
+2018,Calvados,Normandie,0.0,14,28,Normandie
+2019,Calvados,Normandie,3.0,14,28,Normandie
+2021,Calvados,Normandie,0.0,14,28,Normandie
+2022,Calvados,Normandie,3.0,14,28,Normandie
+2005,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2008,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2009,Cantal,Auvergne et Rhône-Alpes,3.0,15,84,Auvergne-Rhône-Alpes
+2010,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2012,Cantal,Auvergne et Rhône-Alpes,5.0,15,84,Auvergne-Rhône-Alpes
+2017,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2018,Cantal,Auvergne et Rhône-Alpes,3.0,15,84,Auvergne-Rhône-Alpes
+2021,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2022,Cantal,Auvergne et Rhône-Alpes,11.0,15,84,Auvergne-Rhône-Alpes
+2025,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2005,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2006,Charente,Nouvelle Aquitaine,5.0,16,75,Nouvelle-Aquitaine
+2012,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2015,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2016,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2019,Charente,Nouvelle Aquitaine,4.0,16,75,Nouvelle-Aquitaine
+2025,Charente,Nouvelle Aquitaine,12.0,16,75,Nouvelle-Aquitaine
+2005,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2012,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2016,Charente-Maritime,Nouvelle Aquitaine,3.0,17,75,Nouvelle-Aquitaine
+2019,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2020,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2021,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2025,Charente-Maritime,Nouvelle Aquitaine,4.0,17,75,Nouvelle-Aquitaine
+2006,Cher,Centre-Val de Loire,9.0,18,24,Centre-Val de Loire
+2020,Cher,Centre-Val de Loire,8.0,18,24,Centre-Val de Loire
+2022,Cher,Centre-Val de Loire,3.0,18,24,Centre-Val de Loire
+2024,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2007,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2009,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2012,Corrèze,Nouvelle Aquitaine,3.0,19,75,Nouvelle-Aquitaine
+2013,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2014,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2016,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2018,Corrèze,Nouvelle Aquitaine,6.0,19,75,Nouvelle-Aquitaine
+2019,Corrèze,Nouvelle Aquitaine,11.0,19,75,Nouvelle-Aquitaine
+2021,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2023,Corrèze,Nouvelle Aquitaine,5.0,19,75,Nouvelle-Aquitaine
+2024,Corrèze,Nouvelle Aquitaine,4.0,19,75,Nouvelle-Aquitaine
+2025,Corrèze,Nouvelle Aquitaine,5.0,19,75,Nouvelle-Aquitaine
+2004,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2006,Côte-d'Or,Bourgogne et Franche-Comté,9.0,21,27,Bourgogne-Franche-Comté
+2007,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2008,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2012,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2017,Côte-d'Or,Bourgogne et Franche-Comté,7.0,21,27,Bourgogne-Franche-Comté
+2018,Côte-d'Or,Bourgogne et Franche-Comté,7.0,21,27,Bourgogne-Franche-Comté
+2020,Côte-d'Or,Bourgogne et Franche-Comté,10.0,21,27,Bourgogne-Franche-Comté
+2021,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2025,Côte-d'Or,Bourgogne et Franche-Comté,11.0,21,27,Bourgogne-Franche-Comté
+2006,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2007,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2009,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2011,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2012,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2014,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2020,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2022,Côtes-d'Armor,Bretagne,3.0,22,53,Bretagne
+2025,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2009,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2010,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2011,Creuse,Nouvelle Aquitaine,3.0,23,75,Nouvelle-Aquitaine
+2012,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2013,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2022,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2024,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2004,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2006,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2011,Dordogne,Nouvelle Aquitaine,3.0,24,75,Nouvelle-Aquitaine
+2012,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2014,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2020,Dordogne,Nouvelle Aquitaine,4.0,24,75,Nouvelle-Aquitaine
+2024,Dordogne,Nouvelle Aquitaine,3.0,24,75,Nouvelle-Aquitaine
+2025,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2007,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2009,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2011,Doubs,Bourgogne et Franche-Comté,3.0,25,27,Bourgogne-Franche-Comté
+2013,Doubs,Bourgogne et Franche-Comté,3.0,25,27,Bourgogne-Franche-Comté
+2016,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2022,Doubs,Bourgogne et Franche-Comté,12.0,25,27,Bourgogne-Franche-Comté
+2004,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2006,Drôme,Auvergne et Rhône-Alpes,3.0,26,84,Auvergne-Rhône-Alpes
+2010,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2015,Drôme,Auvergne et Rhône-Alpes,8.0,26,84,Auvergne-Rhône-Alpes
+2017,Drôme,Auvergne et Rhône-Alpes,4.0,26,84,Auvergne-Rhône-Alpes
+2018,Drôme,Auvergne et Rhône-Alpes,11.0,26,84,Auvergne-Rhône-Alpes
+2022,Drôme,Auvergne et Rhône-Alpes,26.0,26,84,Auvergne-Rhône-Alpes
+2023,Drôme,Auvergne et Rhône-Alpes,10.0,26,84,Auvergne-Rhône-Alpes
+2024,Drôme,Auvergne et Rhône-Alpes,9.0,26,84,Auvergne-Rhône-Alpes
+2004,Eure,Normandie,0.0,27,28,Normandie
+2005,Eure,Normandie,0.0,27,28,Normandie
+2015,Eure,Normandie,0.0,27,28,Normandie
+2017,Eure,Normandie,0.0,27,28,Normandie
+2018,Eure,Normandie,0.0,27,28,Normandie
+2024,Eure,Normandie,0.0,27,28,Normandie
+2004,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2012,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2014,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2018,Eure-et-Loir,Centre-Val de Loire,3.0,28,24,Centre-Val de Loire
+2021,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2023,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2025,Eure-et-Loir,Centre-Val de Loire,3.0,28,24,Centre-Val de Loire
+2004,Finistère,Bretagne,0.0,29,53,Bretagne
+2007,Finistère,Bretagne,0.0,29,53,Bretagne
+2009,Finistère,Bretagne,0.0,29,53,Bretagne
+2014,Finistère,Bretagne,0.0,29,53,Bretagne
+2016,Finistère,Bretagne,0.0,29,53,Bretagne
+2019,Finistère,Bretagne,0.0,29,53,Bretagne
+2004,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2005,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2008,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2011,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2014,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2019,Corse-du-Sud,Corse,5.0,2A,94,Corse
+2023,Corse-du-Sud,Corse,6.0,2A,94,Corse
+2024,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2009,Haute-Corse,Corse,0.0,2B,94,Corse
+2010,Haute-Corse,Corse,0.0,2B,94,Corse
+2012,Haute-Corse,Corse,0.0,2B,94,Corse
+2022,Haute-Corse,Corse,17.0,2B,94,Corse
+2023,Haute-Corse,Corse,9.0,2B,94,Corse
+2004,Gard,Occitanie,0.0,30,76,Occitanie
+2006,Gard,Occitanie,10.0,30,76,Occitanie
+2010,Gard,Occitanie,0.0,30,76,Occitanie
+2011,Gard,Occitanie,0.0,30,76,Occitanie
+2020,Gard,Occitanie,0.0,30,76,Occitanie
+2021,Gard,Occitanie,4.0,30,76,Occitanie
+2008,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2009,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2010,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2012,Haute-Garonne,Occitanie,5.0,31,76,Occitanie
+2014,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2015,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2021,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2006,Gers,Occitanie,0.0,32,76,Occitanie
+2008,Gers,Occitanie,0.0,32,76,Occitanie
+2013,Gers,Occitanie,0.0,32,76,Occitanie
+2014,Gers,Occitanie,0.0,32,76,Occitanie
+2025,Gers,Occitanie,0.0,32,76,Occitanie
+2004,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2005,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2008,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2015,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2019,Gironde,Nouvelle Aquitaine,5.0,33,75,Nouvelle-Aquitaine
+2022,Gironde,Nouvelle Aquitaine,13.0,33,75,Nouvelle-Aquitaine
+2023,Gironde,Nouvelle Aquitaine,7.0,33,75,Nouvelle-Aquitaine
+2004,Hérault,Occitanie,0.0,34,76,Occitanie
+2007,Hérault,Occitanie,0.0,34,76,Occitanie
+2008,Hérault,Occitanie,0.0,34,76,Occitanie
+2009,Hérault,Occitanie,0.0,34,76,Occitanie
+2010,Hérault,Occitanie,4.0,34,76,Occitanie
+2012,Hérault,Occitanie,0.0,34,76,Occitanie
+2013,Hérault,Occitanie,0.0,34,76,Occitanie
+2016,Hérault,Occitanie,0.0,34,76,Occitanie
+2019,Hérault,Occitanie,3.0,34,76,Occitanie
+2021,Hérault,Occitanie,0.0,34,76,Occitanie
+2022,Hérault,Occitanie,13.0,34,76,Occitanie
+2023,Hérault,Occitanie,6.0,34,76,Occitanie
+2025,Hérault,Occitanie,13.0,34,76,Occitanie
+2007,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2010,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2017,Ille-et-Vilaine,Bretagne,3.0,35,53,Bretagne
+2018,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2019,Ille-et-Vilaine,Bretagne,7.0,35,53,Bretagne
+2025,Ille-et-Vilaine,Bretagne,4.0,35,53,Bretagne
+2007,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2008,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2011,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2012,Indre,Centre-Val de Loire,3.0,36,24,Centre-Val de Loire
+2015,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2016,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2018,Indre,Centre-Val de Loire,4.0,36,24,Centre-Val de Loire
+2024,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2025,Indre,Centre-Val de Loire,5.0,36,24,Centre-Val de Loire
+2007,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2009,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2010,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2016,Indre-et-Loire,Centre-Val de Loire,4.0,37,24,Centre-Val de Loire
+2018,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2022,Indre-et-Loire,Centre-Val de Loire,7.0,37,24,Centre-Val de Loire
+2025,Indre-et-Loire,Centre-Val de Loire,4.0,37,24,Centre-Val de Loire
+2004,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2005,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2010,Isère,Auvergne et Rhône-Alpes,6.0,38,84,Auvergne-Rhône-Alpes
+2013,Isère,Auvergne et Rhône-Alpes,4.0,38,84,Auvergne-Rhône-Alpes
+2019,Isère,Auvergne et Rhône-Alpes,12.0,38,84,Auvergne-Rhône-Alpes
+2021,Isère,Auvergne et Rhône-Alpes,5.0,38,84,Auvergne-Rhône-Alpes
+2022,Isère,Auvergne et Rhône-Alpes,34.0,38,84,Auvergne-Rhône-Alpes
+2004,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2005,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2011,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2012,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2017,Jura,Bourgogne et Franche-Comté,9.0,39,27,Bourgogne-Franche-Comté
+2025,Jura,Bourgogne et Franche-Comté,9.0,39,27,Bourgogne-Franche-Comté
+2006,Landes,Nouvelle Aquitaine,10.0,40,75,Nouvelle-Aquitaine
+2015,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2018,Landes,Nouvelle Aquitaine,4.0,40,75,Nouvelle-Aquitaine
+2013,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2018,Loir-et-Cher,Centre-Val de Loire,5.0,41,24,Centre-Val de Loire
+2020,Loir-et-Cher,Centre-Val de Loire,5.0,41,24,Centre-Val de Loire
+2021,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2022,Loir-et-Cher,Centre-Val de Loire,3.0,41,24,Centre-Val de Loire
+2023,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2005,Loire,Auvergne et Rhône-Alpes,9.0,42,84,Auvergne-Rhône-Alpes
+2008,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2010,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2013,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2014,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2022,Loire,Auvergne et Rhône-Alpes,6.0,42,84,Auvergne-Rhône-Alpes
+2023,Loire,Auvergne et Rhône-Alpes,9.0,42,84,Auvergne-Rhône-Alpes
+2025,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2006,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2008,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2012,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2013,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2014,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2023,Haute-Loire,Auvergne et Rhône-Alpes,14.0,43,84,Auvergne-Rhône-Alpes
+2025,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2005,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2009,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2010,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2014,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2004,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2013,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2016,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2022,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2024,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2006,Lot,Occitanie,0.0,46,76,Occitanie
+2009,Lot,Occitanie,0.0,46,76,Occitanie
+2011,Lot,Occitanie,3.0,46,76,Occitanie
+2012,Lot,Occitanie,6.0,46,76,Occitanie
+2018,Lot,Occitanie,0.0,46,76,Occitanie
+2022,Lot,Occitanie,6.0,46,76,Occitanie
+2023,Lot,Occitanie,5.0,46,76,Occitanie
+2004,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2005,Lot-et-Garonne,Nouvelle Aquitaine,3.0,47,75,Nouvelle-Aquitaine
+2008,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2009,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2010,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2012,Lot-et-Garonne,Nouvelle Aquitaine,4.0,47,75,Nouvelle-Aquitaine
+2015,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2016,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2017,Lot-et-Garonne,Nouvelle Aquitaine,4.0,47,75,Nouvelle-Aquitaine
+2020,Lot-et-Garonne,Nouvelle Aquitaine,3.0,47,75,Nouvelle-Aquitaine
+2021,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2022,Lot-et-Garonne,Nouvelle Aquitaine,3.0,47,75,Nouvelle-Aquitaine
+2004,Lozère,Occitanie,0.0,48,76,Occitanie
+2005,Lozère,Occitanie,0.0,48,76,Occitanie
+2008,Lozère,Occitanie,0.0,48,76,Occitanie
+2009,Lozère,Occitanie,0.0,48,76,Occitanie
+2011,Lozère,Occitanie,0.0,48,76,Occitanie
+2012,Lozère,Occitanie,0.0,48,76,Occitanie
+2015,Lozère,Occitanie,0.0,48,76,Occitanie
+2019,Lozère,Occitanie,0.0,48,76,Occitanie
+2020,Lozère,Occitanie,0.0,48,76,Occitanie
+2021,Lozère,Occitanie,0.0,48,76,Occitanie
+2024,Lozère,Occitanie,0.0,48,76,Occitanie
+2004,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2008,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2009,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2011,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2015,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2016,Maine-et-Loire,Pays de la Loire,3.0,49,52,Pays de la Loire
+2017,Maine-et-Loire,Pays de la Loire,3.0,49,52,Pays de la Loire
+2020,Maine-et-Loire,Pays de la Loire,4.0,49,52,Pays de la Loire
+2021,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2022,Maine-et-Loire,Pays de la Loire,3.0,49,52,Pays de la Loire
+2023,Maine-et-Loire,Pays de la Loire,3.0,49,52,Pays de la Loire
+2005,Manche,Normandie,0.0,50,28,Normandie
+2006,Manche,Normandie,0.0,50,28,Normandie
+2010,Manche,Normandie,0.0,50,28,Normandie
+2011,Manche,Normandie,0.0,50,28,Normandie
+2012,Manche,Normandie,0.0,50,28,Normandie
+2013,Manche,Normandie,0.0,50,28,Normandie
+2014,Manche,Normandie,0.0,50,28,Normandie
+2017,Manche,Normandie,3.0,50,28,Normandie
+2021,Manche,Normandie,0.0,50,28,Normandie
+2022,Manche,Normandie,7.0,50,28,Normandie
+2023,Manche,Normandie,0.0,50,28,Normandie
+2004,Marne,Grand Est,0.0,51,44,Grand Est
+2007,Marne,Grand Est,0.0,51,44,Grand Est
+2010,Marne,Grand Est,0.0,51,44,Grand Est
+2013,Marne,Grand Est,0.0,51,44,Grand Est
+2015,Marne,Grand Est,5.0,51,44,Grand Est
+2017,Marne,Grand Est,0.0,51,44,Grand Est
+2018,Marne,Grand Est,6.0,51,44,Grand Est
+2021,Marne,Grand Est,0.0,51,44,Grand Est
+2024,Marne,Grand Est,0.0,51,44,Grand Est
+2005,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2006,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2008,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2005,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2007,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2008,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2009,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2013,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2015,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2016,Mayenne,Pays de la Loire,7.0,53,52,Pays de la Loire
+2017,Mayenne,Pays de la Loire,5.0,53,52,Pays de la Loire
+2020,Mayenne,Pays de la Loire,5.0,53,52,Pays de la Loire
+2024,Mayenne,Pays de la Loire,4.0,53,52,Pays de la Loire
+2004,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2005,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2008,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2010,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2011,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2012,Meurthe-et-Moselle,Grand Est,3.0,54,44,Grand Est
+2013,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2019,Meurthe-et-Moselle,Grand Est,7.0,54,44,Grand Est
+2025,Meurthe-et-Moselle,Grand Est,7.0,54,44,Grand Est
+2004,Meuse,Grand Est,0.0,55,44,Grand Est
+2005,Meuse,Grand Est,0.0,55,44,Grand Est
+2009,Meuse,Grand Est,0.0,55,44,Grand Est
+2016,Meuse,Grand Est,3.0,55,44,Grand Est
+2022,Meuse,Grand Est,0.0,55,44,Grand Est
+2024,Meuse,Grand Est,0.0,55,44,Grand Est
+2025,Meuse,Grand Est,3.0,55,44,Grand Est
+2010,Morbihan,Bretagne,0.0,56,53,Bretagne
+2012,Morbihan,Bretagne,0.0,56,53,Bretagne
+2014,Morbihan,Bretagne,0.0,56,53,Bretagne
+2015,Morbihan,Bretagne,0.0,56,53,Bretagne
+2024,Morbihan,Bretagne,0.0,56,53,Bretagne
+2025,Morbihan,Bretagne,6.0,56,53,Bretagne
+2005,Moselle,Grand Est,0.0,57,44,Grand Est
+2008,Moselle,Grand Est,0.0,57,44,Grand Est
+2011,Moselle,Grand Est,0.0,57,44,Grand Est
+2016,Moselle,Grand Est,0.0,57,44,Grand Est
+2018,Moselle,Grand Est,5.0,57,44,Grand Est
+2021,Moselle,Grand Est,0.0,57,44,Grand Est
+2025,Moselle,Grand Est,7.0,57,44,Grand Est
+2005,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2018,Nièvre,Bourgogne et Franche-Comté,6.0,58,27,Bourgogne-Franche-Comté
+2019,Nièvre,Bourgogne et Franche-Comté,4.0,58,27,Bourgogne-Franche-Comté
+2020,Nièvre,Bourgogne et Franche-Comté,4.0,58,27,Bourgogne-Franche-Comté
+2009,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2013,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2014,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2015,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2018,Nord,Hauts-de-France,5.0,59,32,Hauts-de-France
+2019,Nord,Hauts-de-France,4.0,59,32,Hauts-de-France
+2021,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2023,Nord,Hauts-de-France,3.0,59,32,Hauts-de-France
+2025,Nord,Hauts-de-France,4.0,59,32,Hauts-de-France
+2004,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2006,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2007,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2008,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2010,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2013,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2017,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2025,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2004,Orne,Normandie,0.0,61,28,Normandie
+2009,Orne,Normandie,0.0,61,28,Normandie
+2013,Orne,Normandie,0.0,61,28,Normandie
+2016,Orne,Normandie,0.0,61,28,Normandie
+2019,Orne,Normandie,6.0,61,28,Normandie
+2021,Orne,Normandie,0.0,61,28,Normandie
+2006,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2009,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2014,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2015,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2022,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2024,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2004,Puy-de-Dôme,Auvergne et Rhône-Alpes,0.0,63,84,Auvergne-Rhône-Alpes
+2007,Puy-de-Dôme,Auvergne et Rhône-Alpes,0.0,63,84,Auvergne-Rhône-Alpes
+2012,Puy-de-Dôme,Auvergne et Rhône-Alpes,3.0,63,84,Auvergne-Rhône-Alpes
+2014,Puy-de-Dôme,Auvergne et Rhône-Alpes,0.0,63,84,Auvergne-Rhône-Alpes
+2015,Puy-de-Dôme,Auvergne et Rhône-Alpes,15.0,63,84,Auvergne-Rhône-Alpes
+2016,Puy-de-Dôme,Auvergne et Rhône-Alpes,5.0,63,84,Auvergne-Rhône-Alpes
+2017,Puy-de-Dôme,Auvergne et Rhône-Alpes,13.0,63,84,Auvergne-Rhône-Alpes
+2018,Puy-de-Dôme,Auvergne et Rhône-Alpes,5.0,63,84,Auvergne-Rhône-Alpes
+2020,Puy-de-Dôme,Auvergne et Rhône-Alpes,8.0,63,84,Auvergne-Rhône-Alpes
+2021,Puy-de-Dôme,Auvergne et Rhône-Alpes,0.0,63,84,Auvergne-Rhône-Alpes
+2023,Puy-de-Dôme,Auvergne et Rhône-Alpes,18.0,63,84,Auvergne-Rhône-Alpes
+2024,Puy-de-Dôme,Auvergne et Rhône-Alpes,7.0,63,84,Auvergne-Rhône-Alpes
+2025,Puy-de-Dôme,Auvergne et Rhône-Alpes,10.0,63,84,Auvergne-Rhône-Alpes
+2005,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2008,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2009,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2014,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2015,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2025,Pyrénées-Atlantiques,Nouvelle Aquitaine,6.0,64,75,Nouvelle-Aquitaine
+2004,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2006,Hautes-Pyrénées,Occitanie,3.0,65,76,Occitanie
+2008,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2010,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2016,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2017,Hautes-Pyrénées,Occitanie,3.0,65,76,Occitanie
+2018,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2019,Hautes-Pyrénées,Occitanie,4.0,65,76,Occitanie
+2021,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2007,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2009,Pyrénées-Orientales,Occitanie,6.0,66,76,Occitanie
+2011,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2012,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2017,Pyrénées-Orientales,Occitanie,4.0,66,76,Occitanie
+2018,Pyrénées-Orientales,Occitanie,12.0,66,76,Occitanie
+2019,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2020,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2021,Pyrénées-Orientales,Occitanie,3.0,66,76,Occitanie
+2022,Pyrénées-Orientales,Occitanie,15.0,66,76,Occitanie
+2004,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2005,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2008,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2015,Bas-Rhin,Grand Est,10.0,67,44,Grand Est
+2016,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2017,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2018,Bas-Rhin,Grand Est,7.0,67,44,Grand Est
+2021,Bas-Rhin,Grand Est,3.0,67,44,Grand Est
+2004,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2007,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2012,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2014,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2018,Haut-Rhin,Grand Est,5.0,68,44,Grand Est
+2020,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2023,Haut-Rhin,Grand Est,6.0,68,44,Grand Est
+2004,Rhône,Auvergne et Rhône-Alpes,0.0,69,84,Auvergne-Rhône-Alpes
+2006,Rhône,Auvergne et Rhône-Alpes,15.0,69,84,Auvergne-Rhône-Alpes
+2011,Rhône,Auvergne et Rhône-Alpes,7.0,69,84,Auvergne-Rhône-Alpes
+2014,Rhône,Auvergne et Rhône-Alpes,0.0,69,84,Auvergne-Rhône-Alpes
+2015,Rhône,Auvergne et Rhône-Alpes,25.0,69,84,Auvergne-Rhône-Alpes
+2016,Rhône,Auvergne et Rhône-Alpes,0.0,69,84,Auvergne-Rhône-Alpes
+2022,Rhône,Auvergne et Rhône-Alpes,18.0,69,84,Auvergne-Rhône-Alpes
+2004,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2007,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2009,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2011,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2015,Haute-Saône,Bourgogne et Franche-Comté,10.0,70,27,Bourgogne-Franche-Comté
+2017,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2019,Haute-Saône,Bourgogne et Franche-Comté,7.0,70,27,Bourgogne-Franche-Comté
+2005,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2012,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2013,Saône-et-Loire,Bourgogne et Franche-Comté,3.0,71,27,Bourgogne-Franche-Comté
+2014,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2016,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2017,Saône-et-Loire,Bourgogne et Franche-Comté,3.0,71,27,Bourgogne-Franche-Comté
+2018,Saône-et-Loire,Bourgogne et Franche-Comté,12.0,71,27,Bourgogne-Franche-Comté
+2020,Saône-et-Loire,Bourgogne et Franche-Comté,6.0,71,27,Bourgogne-Franche-Comté
+2021,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2024,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2005,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2011,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2014,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2015,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2017,Sarthe,Pays de la Loire,4.0,72,52,Pays de la Loire
+2018,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2019,Sarthe,Pays de la Loire,10.0,72,52,Pays de la Loire
+2023,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2006,Savoie,Auvergne et Rhône-Alpes,4.0,73,84,Auvergne-Rhône-Alpes
+2007,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2016,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2017,Savoie,Auvergne et Rhône-Alpes,7.0,73,84,Auvergne-Rhône-Alpes
+2018,Savoie,Auvergne et Rhône-Alpes,7.0,73,84,Auvergne-Rhône-Alpes
+2020,Savoie,Auvergne et Rhône-Alpes,10.0,73,84,Auvergne-Rhône-Alpes
+2025,Savoie,Auvergne et Rhône-Alpes,6.0,73,84,Auvergne-Rhône-Alpes
+2007,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2008,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2014,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2018,Haute-Savoie,Auvergne et Rhône-Alpes,7.0,74,84,Auvergne-Rhône-Alpes
+2024,Haute-Savoie,Auvergne et Rhône-Alpes,8.0,74,84,Auvergne-Rhône-Alpes
+2008,Paris,Île-de-France,0.0,75,11,Île-de-France
+2013,Paris,Île-de-France,5.0,75,11,Île-de-France
+2023,Paris,Île-de-France,4.0,75,11,Île-de-France
+2024,Paris,Île-de-France,0.0,75,11,Île-de-France
+2010,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2013,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2016,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2019,Seine-Maritime,Normandie,4.0,76,28,Normandie
+2020,Seine-Maritime,Normandie,7.0,76,28,Normandie
+2021,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2006,Seine-et-Marne,Île-de-France,7.0,77,11,Île-de-France
+2008,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2009,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2012,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2014,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2016,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2019,Seine-et-Marne,Île-de-France,4.0,77,11,Île-de-France
+2020,Seine-et-Marne,Île-de-France,7.0,77,11,Île-de-France
+2022,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2005,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2007,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2010,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2011,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2019,Yvelines,Île-de-France,5.0,78,11,Île-de-France
+2020,Yvelines,Île-de-France,6.0,78,11,Île-de-France
+2023,Yvelines,Île-de-France,3.0,78,11,Île-de-France
+2024,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2025,Yvelines,Île-de-France,3.0,78,11,Île-de-France
+2005,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2006,Deux-Sèvres,Nouvelle Aquitaine,4.0,79,75,Nouvelle-Aquitaine
+2007,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2009,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2011,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2016,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2018,Deux-Sèvres,Nouvelle Aquitaine,5.0,79,75,Nouvelle-Aquitaine
+2006,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2011,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2014,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2015,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2021,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2022,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2025,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2007,Tarn,Occitanie,0.0,81,76,Occitanie
+2009,Tarn,Occitanie,4.0,81,76,Occitanie
+2010,Tarn,Occitanie,0.0,81,76,Occitanie
+2013,Tarn,Occitanie,0.0,81,76,Occitanie
+2014,Tarn,Occitanie,0.0,81,76,Occitanie
+2016,Tarn,Occitanie,0.0,81,76,Occitanie
+2005,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2013,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2014,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2017,Tarn-et-Garonne,Occitanie,3.0,82,76,Occitanie
+2018,Tarn-et-Garonne,Occitanie,5.0,82,76,Occitanie
+2020,Tarn-et-Garonne,Occitanie,4.0,82,76,Occitanie
+2021,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2022,Tarn-et-Garonne,Occitanie,3.0,82,76,Occitanie
+2024,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2025,Tarn-et-Garonne,Occitanie,4.0,82,76,Occitanie
+2007,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2009,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2011,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2017,Var,Provence-Alpes-Côte d'Azur,3.0,83,93,Provence-Alpes-Côte d'Azur
+2023,Var,Provence-Alpes-Côte d'Azur,5.0,83,93,Provence-Alpes-Côte d'Azur
+2004,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2007,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2008,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2009,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2014,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2024,Vaucluse,Provence-Alpes-Côte d'Azur,9.0,84,93,Provence-Alpes-Côte d'Azur
+2005,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2006,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2009,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2010,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2012,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2013,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2014,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2016,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2019,Vendée,Pays de la Loire,7.0,85,52,Pays de la Loire
+2020,Vendée,Pays de la Loire,4.0,85,52,Pays de la Loire
+2004,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2005,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2006,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2007,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2011,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2015,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2016,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2017,Vienne,Nouvelle Aquitaine,3.0,86,75,Nouvelle-Aquitaine
+2018,Vienne,Nouvelle Aquitaine,3.0,86,75,Nouvelle-Aquitaine
+2020,Vienne,Nouvelle Aquitaine,3.0,86,75,Nouvelle-Aquitaine
+2021,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2004,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2008,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2010,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2012,Haute-Vienne,Nouvelle Aquitaine,4.0,87,75,Nouvelle-Aquitaine
+2013,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2014,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2016,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2020,Haute-Vienne,Nouvelle Aquitaine,6.0,87,75,Nouvelle-Aquitaine
+2004,Vosges,Grand Est,0.0,88,44,Grand Est
+2006,Vosges,Grand Est,0.0,88,44,Grand Est
+2007,Vosges,Grand Est,0.0,88,44,Grand Est
+2011,Vosges,Grand Est,0.0,88,44,Grand Est
+2012,Vosges,Grand Est,0.0,88,44,Grand Est
+2014,Vosges,Grand Est,0.0,88,44,Grand Est
+2021,Vosges,Grand Est,0.0,88,44,Grand Est
+2007,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2008,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2012,Yonne,Bourgogne et Franche-Comté,4.0,89,27,Bourgogne-Franche-Comté
+2022,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2023,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2005,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2006,Territoire de Belfort,Bourgogne et Franche-Comté,9.0,90,27,Bourgogne-Franche-Comté
+2008,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2019,Territoire de Belfort,Bourgogne et Franche-Comté,10.0,90,27,Bourgogne-Franche-Comté
+2023,Territoire de Belfort,Bourgogne et Franche-Comté,10.0,90,27,Bourgogne-Franche-Comté
+2025,Territoire de Belfort,Bourgogne et Franche-Comté,8.0,90,27,Bourgogne-Franche-Comté
+2014,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2015,Essonne,Île-de-France,3.0,91,11,Île-de-France
+2017,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2022,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2004,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2006,Hauts-de-Seine,Île-de-France,12.0,92,11,Île-de-France
+2009,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2012,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2013,Hauts-de-Seine,Île-de-France,5.0,92,11,Île-de-France
+2014,Hauts-de-Seine,Île-de-France,3.0,92,11,Île-de-France
+2016,Hauts-de-Seine,Île-de-France,5.0,92,11,Île-de-France
+2017,Hauts-de-Seine,Île-de-France,5.0,92,11,Île-de-France
+2019,Hauts-de-Seine,Île-de-France,10.0,92,11,Île-de-France
+2022,Hauts-de-Seine,Île-de-France,6.0,92,11,Île-de-France
+2004,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2005,Seine-Saint-Denis,Île-de-France,3.0,93,11,Île-de-France
+2007,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2010,Seine-Saint-Denis,Île-de-France,4.0,93,11,Île-de-France
+2011,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2014,Seine-Saint-Denis,Île-de-France,3.0,93,11,Île-de-France
+2021,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2022,Seine-Saint-Denis,Île-de-France,6.0,93,11,Île-de-France
+2024,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2025,Seine-Saint-Denis,Île-de-France,3.0,93,11,Île-de-France
+2004,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2013,Val-de-Marne,Île-de-France,5.0,94,11,Île-de-France
+2015,Val-de-Marne,Île-de-France,6.0,94,11,Île-de-France
+2016,Val-de-Marne,Île-de-France,5.0,94,11,Île-de-France
+2022,Val-de-Marne,Île-de-France,6.0,94,11,Île-de-France
+2024,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2010,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2011,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2019,Val-d'Oise,Île-de-France,4.0,95,11,Île-de-France
+2021,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2023,Val-d'Oise,Île-de-France,3.0,95,11,Île-de-France
+2024,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2025,Val-d'Oise,Île-de-France,3.0,95,11,Île-de-France
+2005,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2006,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2007,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2009,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2012,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2014,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2016,Ain,Auvergne et Rhône-Alpes,0.0,01,84,Auvergne-Rhône-Alpes
+2022,Ain,Auvergne et Rhône-Alpes,3.0,01,84,Auvergne-Rhône-Alpes
+2023,Ain,Auvergne et Rhône-Alpes,16.0,01,84,Auvergne-Rhône-Alpes
+2024,Ain,Auvergne et Rhône-Alpes,3.0,01,84,Auvergne-Rhône-Alpes
+2005,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2012,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2015,Aisne,Hauts-de-France,0.0,02,32,Hauts-de-France
+2025,Aisne,Hauts-de-France,3.0,02,32,Hauts-de-France
+2006,Allier,Auvergne et Rhône-Alpes,4.0,03,84,Auvergne-Rhône-Alpes
+2010,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2012,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2015,Allier,Auvergne et Rhône-Alpes,10.0,03,84,Auvergne-Rhône-Alpes
+2016,Allier,Auvergne et Rhône-Alpes,0.0,03,84,Auvergne-Rhône-Alpes
+2022,Allier,Auvergne et Rhône-Alpes,3.0,03,84,Auvergne-Rhône-Alpes
+2024,Allier,Auvergne et Rhône-Alpes,7.0,03,84,Auvergne-Rhône-Alpes
+2025,Allier,Auvergne et Rhône-Alpes,4.0,03,84,Auvergne-Rhône-Alpes
+2005,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2006,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2008,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2009,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2011,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2012,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,4.0,04,93,Provence-Alpes-Côte d'Azur
+2013,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,0.0,04,93,Provence-Alpes-Côte d'Azur
+2021,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,5.0,04,93,Provence-Alpes-Côte d'Azur
+2022,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,24.0,04,93,Provence-Alpes-Côte d'Azur
+2024,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,6.0,04,93,Provence-Alpes-Côte d'Azur
+2004,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2006,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2008,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2009,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2014,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2016,Hautes-Alpes,Provence-Alpes-Côte d'Azur,0.0,05,93,Provence-Alpes-Côte d'Azur
+2024,Hautes-Alpes,Provence-Alpes-Côte d'Azur,3.0,05,93,Provence-Alpes-Côte d'Azur
+2004,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,0.0,06,93,Provence-Alpes-Côte d'Azur
+2007,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,0.0,06,93,Provence-Alpes-Côte d'Azur
+2009,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,5.0,06,93,Provence-Alpes-Côte d'Azur
+2012,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,5.0,06,93,Provence-Alpes-Côte d'Azur
+2013,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,3.0,06,93,Provence-Alpes-Côte d'Azur
+2014,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,0.0,06,93,Provence-Alpes-Côte d'Azur
+2020,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,4.0,06,93,Provence-Alpes-Côte d'Azur
+2022,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,19.0,06,93,Provence-Alpes-Côte d'Azur
+2023,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,18.0,06,93,Provence-Alpes-Côte d'Azur
+2024,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,15.0,06,93,Provence-Alpes-Côte d'Azur
+2004,Ardèche,Auvergne et Rhône-Alpes,3.0,07,84,Auvergne-Rhône-Alpes
+2007,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2009,Ardèche,Auvergne et Rhône-Alpes,3.0,07,84,Auvergne-Rhône-Alpes
+2010,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2011,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2013,Ardèche,Auvergne et Rhône-Alpes,0.0,07,84,Auvergne-Rhône-Alpes
+2016,Ardèche,Auvergne et Rhône-Alpes,3.0,07,84,Auvergne-Rhône-Alpes
+2019,Ardèche,Auvergne et Rhône-Alpes,15.0,07,84,Auvergne-Rhône-Alpes
+2006,Ardennes,Grand Est,0.0,08,44,Grand Est
+2007,Ardennes,Grand Est,0.0,08,44,Grand Est
+2015,Ardennes,Grand Est,4.0,08,44,Grand Est
+2016,Ardennes,Grand Est,0.0,08,44,Grand Est
+2020,Ardennes,Grand Est,5.0,08,44,Grand Est
+2025,Ardennes,Grand Est,0.0,08,44,Grand Est
+2008,Ariège,Occitanie,0.0,09,76,Occitanie
+2010,Ariège,Occitanie,0.0,09,76,Occitanie
+2014,Ariège,Occitanie,0.0,09,76,Occitanie
+2022,Ariège,Occitanie,0.0,09,76,Occitanie
+2024,Ariège,Occitanie,0.0,09,76,Occitanie
+2004,Aube,Grand Est,0.0,10,44,Grand Est
+2005,Aube,Grand Est,0.0,10,44,Grand Est
+2006,Aube,Grand Est,3.0,10,44,Grand Est
+2009,Aube,Grand Est,0.0,10,44,Grand Est
+2011,Aube,Grand Est,0.0,10,44,Grand Est
+2019,Aube,Grand Est,7.0,10,44,Grand Est
+2021,Aube,Grand Est,0.0,10,44,Grand Est
+2023,Aube,Grand Est,0.0,10,44,Grand Est
+2004,Aude,Occitanie,0.0,11,76,Occitanie
+2005,Aude,Occitanie,0.0,11,76,Occitanie
+2018,Aude,Occitanie,5.0,11,76,Occitanie
+2020,Aude,Occitanie,0.0,11,76,Occitanie
+2024,Aude,Occitanie,3.0,11,76,Occitanie
+2006,Aveyron,Occitanie,0.0,12,76,Occitanie
+2010,Aveyron,Occitanie,0.0,12,76,Occitanie
+2013,Aveyron,Occitanie,0.0,12,76,Occitanie
+2017,Aveyron,Occitanie,0.0,12,76,Occitanie
+2019,Aveyron,Occitanie,8.0,12,76,Occitanie
+2022,Aveyron,Occitanie,6.0,12,76,Occitanie
+2023,Aveyron,Occitanie,5.0,12,76,Occitanie
+2004,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2011,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2014,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2015,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2016,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,0.0,13,93,Provence-Alpes-Côte d'Azur
+2019,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,4.0,13,93,Provence-Alpes-Côte d'Azur
+2022,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,3.0,13,93,Provence-Alpes-Côte d'Azur
+2024,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,3.0,13,93,Provence-Alpes-Côte d'Azur
+2006,Calvados,Normandie,0.0,14,28,Normandie
+2007,Calvados,Normandie,0.0,14,28,Normandie
+2008,Calvados,Normandie,0.0,14,28,Normandie
+2010,Calvados,Normandie,0.0,14,28,Normandie
+2011,Calvados,Normandie,0.0,14,28,Normandie
+2023,Calvados,Normandie,6.0,14,28,Normandie
+2025,Calvados,Normandie,0.0,14,28,Normandie
+2004,Cantal,Auvergne et Rhône-Alpes,3.0,15,84,Auvergne-Rhône-Alpes
+2006,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2013,Cantal,Auvergne et Rhône-Alpes,3.0,15,84,Auvergne-Rhône-Alpes
+2016,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2019,Cantal,Auvergne et Rhône-Alpes,7.0,15,84,Auvergne-Rhône-Alpes
+2020,Cantal,Auvergne et Rhône-Alpes,0.0,15,84,Auvergne-Rhône-Alpes
+2009,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2010,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2014,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2017,Charente,Nouvelle Aquitaine,3.0,16,75,Nouvelle-Aquitaine
+2018,Charente,Nouvelle Aquitaine,5.0,16,75,Nouvelle-Aquitaine
+2022,Charente,Nouvelle Aquitaine,14.0,16,75,Nouvelle-Aquitaine
+2023,Charente,Nouvelle Aquitaine,5.0,16,75,Nouvelle-Aquitaine
+2024,Charente,Nouvelle Aquitaine,0.0,16,75,Nouvelle-Aquitaine
+2004,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2008,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2009,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2010,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2013,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2015,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2017,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2023,Charente-Maritime,Nouvelle Aquitaine,0.0,17,75,Nouvelle-Aquitaine
+2004,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2005,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2007,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2010,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2013,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2015,Cher,Centre-Val de Loire,4.0,18,24,Centre-Val de Loire
+2016,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2019,Cher,Centre-Val de Loire,12.0,18,24,Centre-Val de Loire
+2021,Cher,Centre-Val de Loire,0.0,18,24,Centre-Val de Loire
+2023,Cher,Centre-Val de Loire,4.0,18,24,Centre-Val de Loire
+2004,Corrèze,Nouvelle Aquitaine,0.0,19,75,Nouvelle-Aquitaine
+2005,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2009,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2010,Côte-d'Or,Bourgogne et Franche-Comté,0.0,21,27,Bourgogne-Franche-Comté
+2024,Côte-d'Or,Bourgogne et Franche-Comté,3.0,21,27,Bourgogne-Franche-Comté
+2005,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2010,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2013,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2018,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2021,Côtes-d'Armor,Bretagne,0.0,22,53,Bretagne
+2005,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2007,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2014,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2016,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2017,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2021,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2023,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2025,Creuse,Nouvelle Aquitaine,0.0,23,75,Nouvelle-Aquitaine
+2007,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2009,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2010,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2013,Dordogne,Nouvelle Aquitaine,0.0,24,75,Nouvelle-Aquitaine
+2023,Dordogne,Nouvelle Aquitaine,4.0,24,75,Nouvelle-Aquitaine
+2004,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2017,Doubs,Bourgogne et Franche-Comté,6.0,25,27,Bourgogne-Franche-Comté
+2020,Doubs,Bourgogne et Franche-Comté,10.0,25,27,Bourgogne-Franche-Comté
+2021,Doubs,Bourgogne et Franche-Comté,0.0,25,27,Bourgogne-Franche-Comté
+2023,Doubs,Bourgogne et Franche-Comté,10.0,25,27,Bourgogne-Franche-Comté
+2024,Doubs,Bourgogne et Franche-Comté,3.0,25,27,Bourgogne-Franche-Comté
+2007,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2011,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2014,Drôme,Auvergne et Rhône-Alpes,0.0,26,84,Auvergne-Rhône-Alpes
+2019,Drôme,Auvergne et Rhône-Alpes,18.0,26,84,Auvergne-Rhône-Alpes
+2021,Drôme,Auvergne et Rhône-Alpes,4.0,26,84,Auvergne-Rhône-Alpes
+2006,Eure,Normandie,0.0,27,28,Normandie
+2007,Eure,Normandie,0.0,27,28,Normandie
+2016,Eure,Normandie,0.0,27,28,Normandie
+2020,Eure,Normandie,6.0,27,28,Normandie
+2005,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2008,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2009,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2015,Eure-et-Loir,Centre-Val de Loire,3.0,28,24,Centre-Val de Loire
+2016,Eure-et-Loir,Centre-Val de Loire,0.0,28,24,Centre-Val de Loire
+2020,Eure-et-Loir,Centre-Val de Loire,6.0,28,24,Centre-Val de Loire
+2005,Finistère,Bretagne,0.0,29,53,Bretagne
+2006,Finistère,Bretagne,0.0,29,53,Bretagne
+2010,Finistère,Bretagne,0.0,29,53,Bretagne
+2017,Finistère,Bretagne,0.0,29,53,Bretagne
+2020,Finistère,Bretagne,0.0,29,53,Bretagne
+2024,Finistère,Bretagne,0.0,29,53,Bretagne
+2025,Finistère,Bretagne,0.0,29,53,Bretagne
+2006,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2010,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2015,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2016,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2017,Corse-du-Sud,Corse,3.0,2A,94,Corse
+2018,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2025,Corse-du-Sud,Corse,0.0,2A,94,Corse
+2004,Haute-Corse,Corse,0.0,2B,94,Corse
+2005,Haute-Corse,Corse,0.0,2B,94,Corse
+2006,Haute-Corse,Corse,4.0,2B,94,Corse
+2007,Haute-Corse,Corse,0.0,2B,94,Corse
+2011,Haute-Corse,Corse,0.0,2B,94,Corse
+2014,Haute-Corse,Corse,0.0,2B,94,Corse
+2015,Haute-Corse,Corse,12.0,2B,94,Corse
+2024,Haute-Corse,Corse,4.0,2B,94,Corse
+2025,Haute-Corse,Corse,10.0,2B,94,Corse
+2005,Gard,Occitanie,0.0,30,76,Occitanie
+2014,Gard,Occitanie,0.0,30,76,Occitanie
+2015,Gard,Occitanie,9.0,30,76,Occitanie
+2019,Gard,Occitanie,9.0,30,76,Occitanie
+2022,Gard,Occitanie,23.0,30,76,Occitanie
+2024,Gard,Occitanie,8.0,30,76,Occitanie
+2005,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2006,Haute-Garonne,Occitanie,4.0,31,76,Occitanie
+2007,Haute-Garonne,Occitanie,0.0,31,76,Occitanie
+2011,Haute-Garonne,Occitanie,4.0,31,76,Occitanie
+2017,Haute-Garonne,Occitanie,3.0,31,76,Occitanie
+2023,Haute-Garonne,Occitanie,8.0,31,76,Occitanie
+2024,Haute-Garonne,Occitanie,4.0,31,76,Occitanie
+2005,Gers,Occitanie,0.0,32,76,Occitanie
+2009,Gers,Occitanie,0.0,32,76,Occitanie
+2010,Gers,Occitanie,0.0,32,76,Occitanie
+2011,Gers,Occitanie,0.0,32,76,Occitanie
+2012,Gers,Occitanie,3.0,32,76,Occitanie
+2016,Gers,Occitanie,0.0,32,76,Occitanie
+2018,Gers,Occitanie,0.0,32,76,Occitanie
+2019,Gers,Occitanie,5.0,32,76,Occitanie
+2020,Gers,Occitanie,3.0,32,76,Occitanie
+2021,Gers,Occitanie,0.0,32,76,Occitanie
+2024,Gers,Occitanie,3.0,32,76,Occitanie
+2012,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2014,Gironde,Nouvelle Aquitaine,0.0,33,75,Nouvelle-Aquitaine
+2018,Gironde,Nouvelle Aquitaine,3.0,33,75,Nouvelle-Aquitaine
+2020,Gironde,Nouvelle Aquitaine,5.0,33,75,Nouvelle-Aquitaine
+2006,Hérault,Occitanie,3.0,34,76,Occitanie
+2004,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2005,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2006,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2009,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2011,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2012,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2013,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2014,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2015,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2016,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2022,Ille-et-Vilaine,Bretagne,3.0,35,53,Bretagne
+2023,Ille-et-Vilaine,Bretagne,7.0,35,53,Bretagne
+2024,Ille-et-Vilaine,Bretagne,0.0,35,53,Bretagne
+2005,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2014,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2017,Indre,Centre-Val de Loire,3.0,36,24,Centre-Val de Loire
+2019,Indre,Centre-Val de Loire,11.0,36,24,Centre-Val de Loire
+2020,Indre,Centre-Val de Loire,3.0,36,24,Centre-Val de Loire
+2021,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2022,Indre,Centre-Val de Loire,0.0,36,24,Centre-Val de Loire
+2023,Indre,Centre-Val de Loire,5.0,36,24,Centre-Val de Loire
+2004,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2008,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2011,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2012,Indre-et-Loire,Centre-Val de Loire,0.0,37,24,Centre-Val de Loire
+2015,Indre-et-Loire,Centre-Val de Loire,3.0,37,24,Centre-Val de Loire
+2019,Indre-et-Loire,Centre-Val de Loire,9.0,37,24,Centre-Val de Loire
+2020,Indre-et-Loire,Centre-Val de Loire,5.0,37,24,Centre-Val de Loire
+2024,Indre-et-Loire,Centre-Val de Loire,3.0,37,24,Centre-Val de Loire
+2006,Isère,Auvergne et Rhône-Alpes,5.0,38,84,Auvergne-Rhône-Alpes
+2008,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2009,Isère,Auvergne et Rhône-Alpes,3.0,38,84,Auvergne-Rhône-Alpes
+2011,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2012,Isère,Auvergne et Rhône-Alpes,4.0,38,84,Auvergne-Rhône-Alpes
+2016,Isère,Auvergne et Rhône-Alpes,0.0,38,84,Auvergne-Rhône-Alpes
+2017,Isère,Auvergne et Rhône-Alpes,4.0,38,84,Auvergne-Rhône-Alpes
+2018,Isère,Auvergne et Rhône-Alpes,10.0,38,84,Auvergne-Rhône-Alpes
+2023,Isère,Auvergne et Rhône-Alpes,25.0,38,84,Auvergne-Rhône-Alpes
+2024,Isère,Auvergne et Rhône-Alpes,9.0,38,84,Auvergne-Rhône-Alpes
+2025,Isère,Auvergne et Rhône-Alpes,20.0,38,84,Auvergne-Rhône-Alpes
+2007,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2010,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2013,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2014,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2016,Jura,Bourgogne et Franche-Comté,4.0,39,27,Bourgogne-Franche-Comté
+2019,Jura,Bourgogne et Franche-Comté,13.0,39,27,Bourgogne-Franche-Comté
+2020,Jura,Bourgogne et Franche-Comté,17.0,39,27,Bourgogne-Franche-Comté
+2021,Jura,Bourgogne et Franche-Comté,0.0,39,27,Bourgogne-Franche-Comté
+2022,Jura,Bourgogne et Franche-Comté,13.0,39,27,Bourgogne-Franche-Comté
+2024,Jura,Bourgogne et Franche-Comté,3.0,39,27,Bourgogne-Franche-Comté
+2005,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2008,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2010,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2011,Landes,Nouvelle Aquitaine,3.0,40,75,Nouvelle-Aquitaine
+2012,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2013,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2017,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2019,Landes,Nouvelle Aquitaine,5.0,40,75,Nouvelle-Aquitaine
+2020,Landes,Nouvelle Aquitaine,3.0,40,75,Nouvelle-Aquitaine
+2021,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2022,Landes,Nouvelle Aquitaine,3.0,40,75,Nouvelle-Aquitaine
+2024,Landes,Nouvelle Aquitaine,0.0,40,75,Nouvelle-Aquitaine
+2004,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2005,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2006,Loir-et-Cher,Centre-Val de Loire,3.0,41,24,Centre-Val de Loire
+2007,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2009,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2010,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2012,Loir-et-Cher,Centre-Val de Loire,0.0,41,24,Centre-Val de Loire
+2019,Loir-et-Cher,Centre-Val de Loire,11.0,41,24,Centre-Val de Loire
+2024,Loir-et-Cher,Centre-Val de Loire,3.0,41,24,Centre-Val de Loire
+2025,Loir-et-Cher,Centre-Val de Loire,4.0,41,24,Centre-Val de Loire
+2007,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2011,Loire,Auvergne et Rhône-Alpes,5.0,42,84,Auvergne-Rhône-Alpes
+2015,Loire,Auvergne et Rhône-Alpes,13.0,42,84,Auvergne-Rhône-Alpes
+2018,Loire,Auvergne et Rhône-Alpes,3.0,42,84,Auvergne-Rhône-Alpes
+2020,Loire,Auvergne et Rhône-Alpes,3.0,42,84,Auvergne-Rhône-Alpes
+2021,Loire,Auvergne et Rhône-Alpes,0.0,42,84,Auvergne-Rhône-Alpes
+2024,Loire,Auvergne et Rhône-Alpes,4.0,42,84,Auvergne-Rhône-Alpes
+2007,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2009,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2015,Haute-Loire,Auvergne et Rhône-Alpes,3.0,43,84,Auvergne-Rhône-Alpes
+2016,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2018,Haute-Loire,Auvergne et Rhône-Alpes,0.0,43,84,Auvergne-Rhône-Alpes
+2020,Haute-Loire,Auvergne et Rhône-Alpes,4.0,43,84,Auvergne-Rhône-Alpes
+2022,Haute-Loire,Auvergne et Rhône-Alpes,7.0,43,84,Auvergne-Rhône-Alpes
+2024,Haute-Loire,Auvergne et Rhône-Alpes,5.0,43,84,Auvergne-Rhône-Alpes
+2004,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2008,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2013,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2015,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2016,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2018,Loire-Atlantique,Pays de la Loire,3.0,44,52,Pays de la Loire
+2019,Loire-Atlantique,Pays de la Loire,5.0,44,52,Pays de la Loire
+2023,Loire-Atlantique,Pays de la Loire,0.0,44,52,Pays de la Loire
+2025,Loire-Atlantique,Pays de la Loire,3.0,44,52,Pays de la Loire
+2007,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2010,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2017,Loiret,Centre-Val de Loire,3.0,45,24,Centre-Val de Loire
+2019,Loiret,Centre-Val de Loire,8.0,45,24,Centre-Val de Loire
+2020,Loiret,Centre-Val de Loire,4.0,45,24,Centre-Val de Loire
+2021,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2023,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2025,Loiret,Centre-Val de Loire,0.0,45,24,Centre-Val de Loire
+2004,Lot,Occitanie,0.0,46,76,Occitanie
+2014,Lot,Occitanie,0.0,46,76,Occitanie
+2015,Lot,Occitanie,4.0,46,76,Occitanie
+2016,Lot,Occitanie,0.0,46,76,Occitanie
+2017,Lot,Occitanie,0.0,46,76,Occitanie
+2019,Lot,Occitanie,12.0,46,76,Occitanie
+2024,Lot,Occitanie,4.0,46,76,Occitanie
+2006,Lot-et-Garonne,Nouvelle Aquitaine,4.0,47,75,Nouvelle-Aquitaine
+2011,Lot-et-Garonne,Nouvelle Aquitaine,4.0,47,75,Nouvelle-Aquitaine
+2014,Lot-et-Garonne,Nouvelle Aquitaine,0.0,47,75,Nouvelle-Aquitaine
+2019,Lot-et-Garonne,Nouvelle Aquitaine,5.0,47,75,Nouvelle-Aquitaine
+2025,Lot-et-Garonne,Nouvelle Aquitaine,4.0,47,75,Nouvelle-Aquitaine
+2007,Lozère,Occitanie,0.0,48,76,Occitanie
+2014,Lozère,Occitanie,0.0,48,76,Occitanie
+2018,Lozère,Occitanie,5.0,48,76,Occitanie
+2025,Lozère,Occitanie,0.0,48,76,Occitanie
+2005,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2006,Maine-et-Loire,Pays de la Loire,6.0,49,52,Pays de la Loire
+2012,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2013,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2014,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2018,Maine-et-Loire,Pays de la Loire,0.0,49,52,Pays de la Loire
+2004,Manche,Normandie,0.0,50,28,Normandie
+2008,Manche,Normandie,0.0,50,28,Normandie
+2009,Manche,Normandie,0.0,50,28,Normandie
+2015,Manche,Normandie,0.0,50,28,Normandie
+2016,Manche,Normandie,0.0,50,28,Normandie
+2018,Manche,Normandie,0.0,50,28,Normandie
+2020,Manche,Normandie,3.0,50,28,Normandie
+2024,Manche,Normandie,0.0,50,28,Normandie
+2025,Manche,Normandie,0.0,50,28,Normandie
+2006,Marne,Grand Est,3.0,51,44,Grand Est
+2011,Marne,Grand Est,0.0,51,44,Grand Est
+2014,Marne,Grand Est,0.0,51,44,Grand Est
+2016,Marne,Grand Est,0.0,51,44,Grand Est
+2019,Marne,Grand Est,3.0,51,44,Grand Est
+2023,Marne,Grand Est,0.0,51,44,Grand Est
+2025,Marne,Grand Est,3.0,51,44,Grand Est
+2004,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2007,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2011,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2013,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2015,Haute-Marne,Grand Est,5.0,52,44,Grand Est
+2017,Haute-Marne,Grand Est,3.0,52,44,Grand Est
+2019,Haute-Marne,Grand Est,10.0,52,44,Grand Est
+2020,Haute-Marne,Grand Est,10.0,52,44,Grand Est
+2023,Haute-Marne,Grand Est,3.0,52,44,Grand Est
+2024,Haute-Marne,Grand Est,0.0,52,44,Grand Est
+2011,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2014,Mayenne,Pays de la Loire,0.0,53,52,Pays de la Loire
+2019,Mayenne,Pays de la Loire,8.0,53,52,Pays de la Loire
+2022,Mayenne,Pays de la Loire,4.0,53,52,Pays de la Loire
+2009,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2014,Meurthe-et-Moselle,Grand Est,0.0,54,44,Grand Est
+2017,Meurthe-et-Moselle,Grand Est,3.0,54,44,Grand Est
+2018,Meurthe-et-Moselle,Grand Est,5.0,54,44,Grand Est
+2006,Meuse,Grand Est,7.0,55,44,Grand Est
+2007,Meuse,Grand Est,0.0,55,44,Grand Est
+2010,Meuse,Grand Est,0.0,55,44,Grand Est
+2012,Meuse,Grand Est,0.0,55,44,Grand Est
+2014,Meuse,Grand Est,0.0,55,44,Grand Est
+2018,Meuse,Grand Est,0.0,55,44,Grand Est
+2019,Meuse,Grand Est,3.0,55,44,Grand Est
+2020,Meuse,Grand Est,6.0,55,44,Grand Est
+2023,Meuse,Grand Est,0.0,55,44,Grand Est
+2004,Morbihan,Bretagne,0.0,56,53,Bretagne
+2009,Morbihan,Bretagne,0.0,56,53,Bretagne
+2016,Morbihan,Bretagne,3.0,56,53,Bretagne
+2017,Morbihan,Bretagne,3.0,56,53,Bretagne
+2021,Morbihan,Bretagne,0.0,56,53,Bretagne
+2007,Moselle,Grand Est,0.0,57,44,Grand Est
+2009,Moselle,Grand Est,0.0,57,44,Grand Est
+2010,Moselle,Grand Est,0.0,57,44,Grand Est
+2012,Moselle,Grand Est,0.0,57,44,Grand Est
+2013,Moselle,Grand Est,0.0,57,44,Grand Est
+2015,Moselle,Grand Est,8.0,57,44,Grand Est
+2017,Moselle,Grand Est,0.0,57,44,Grand Est
+2019,Moselle,Grand Est,7.0,57,44,Grand Est
+2020,Moselle,Grand Est,4.0,57,44,Grand Est
+2022,Moselle,Grand Est,0.0,57,44,Grand Est
+2004,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2008,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2011,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2012,Nièvre,Bourgogne et Franche-Comté,4.0,58,27,Bourgogne-Franche-Comté
+2013,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2022,Nièvre,Bourgogne et Franche-Comté,0.0,58,27,Bourgogne-Franche-Comté
+2004,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2006,Nord,Hauts-de-France,4.0,59,32,Hauts-de-France
+2010,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2011,Nord,Hauts-de-France,0.0,59,32,Hauts-de-France
+2012,Nord,Hauts-de-France,3.0,59,32,Hauts-de-France
+2016,Nord,Hauts-de-France,3.0,59,32,Hauts-de-France
+2017,Nord,Hauts-de-France,3.0,59,32,Hauts-de-France
+2020,Nord,Hauts-de-France,7.0,59,32,Hauts-de-France
+2022,Nord,Hauts-de-France,7.0,59,32,Hauts-de-France
+2005,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2009,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2012,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2015,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2016,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2018,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2020,Oise,Hauts-de-France,5.0,60,32,Hauts-de-France
+2021,Oise,Hauts-de-France,0.0,60,32,Hauts-de-France
+2007,Orne,Normandie,0.0,61,28,Normandie
+2008,Orne,Normandie,0.0,61,28,Normandie
+2011,Orne,Normandie,0.0,61,28,Normandie
+2020,Orne,Normandie,6.0,61,28,Normandie
+2022,Orne,Normandie,0.0,61,28,Normandie
+2023,Orne,Normandie,0.0,61,28,Normandie
+2007,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2011,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2012,Pas-de-Calais,Hauts-de-France,3.0,62,32,Hauts-de-France
+2013,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2016,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2017,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2018,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2020,Pas-de-Calais,Hauts-de-France,5.0,62,32,Hauts-de-France
+2021,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2025,Pas-de-Calais,Hauts-de-France,0.0,62,32,Hauts-de-France
+2009,Puy-de-Dôme,Auvergne et Rhône-Alpes,3.0,63,84,Auvergne-Rhône-Alpes
+2010,Puy-de-Dôme,Auvergne et Rhône-Alpes,0.0,63,84,Auvergne-Rhône-Alpes
+2011,Puy-de-Dôme,Auvergne et Rhône-Alpes,6.0,63,84,Auvergne-Rhône-Alpes
+2019,Puy-de-Dôme,Auvergne et Rhône-Alpes,12.0,63,84,Auvergne-Rhône-Alpes
+2006,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2007,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2011,Pyrénées-Atlantiques,Nouvelle Aquitaine,3.0,64,75,Nouvelle-Aquitaine
+2012,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2013,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2017,Pyrénées-Atlantiques,Nouvelle Aquitaine,0.0,64,75,Nouvelle-Aquitaine
+2019,Pyrénées-Atlantiques,Nouvelle Aquitaine,3.0,64,75,Nouvelle-Aquitaine
+2022,Pyrénées-Atlantiques,Nouvelle Aquitaine,9.0,64,75,Nouvelle-Aquitaine
+2009,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2011,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2013,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2015,Hautes-Pyrénées,Occitanie,0.0,65,76,Occitanie
+2020,Hautes-Pyrénées,Occitanie,3.0,65,76,Occitanie
+2023,Hautes-Pyrénées,Occitanie,4.0,65,76,Occitanie
+2024,Hautes-Pyrénées,Occitanie,3.0,65,76,Occitanie
+2025,Hautes-Pyrénées,Occitanie,9.0,65,76,Occitanie
+2004,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2005,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2010,Pyrénées-Orientales,Occitanie,0.0,66,76,Occitanie
+2023,Pyrénées-Orientales,Occitanie,7.0,66,76,Occitanie
+2025,Pyrénées-Orientales,Occitanie,18.0,66,76,Occitanie
+2009,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2010,Bas-Rhin,Grand Est,3.0,67,44,Grand Est
+2012,Bas-Rhin,Grand Est,0.0,67,44,Grand Est
+2014,Bas-Rhin,Grand Est,3.0,67,44,Grand Est
+2023,Bas-Rhin,Grand Est,6.0,67,44,Grand Est
+2009,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2013,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2015,Haut-Rhin,Grand Est,6.0,68,44,Grand Est
+2016,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2017,Haut-Rhin,Grand Est,3.0,68,44,Grand Est
+2019,Haut-Rhin,Grand Est,6.0,68,44,Grand Est
+2022,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2024,Haut-Rhin,Grand Est,0.0,68,44,Grand Est
+2005,Rhône,Auvergne et Rhône-Alpes,16.0,69,84,Auvergne-Rhône-Alpes
+2007,Rhône,Auvergne et Rhône-Alpes,0.0,69,84,Auvergne-Rhône-Alpes
+2012,Rhône,Auvergne et Rhône-Alpes,4.0,69,84,Auvergne-Rhône-Alpes
+2013,Rhône,Auvergne et Rhône-Alpes,4.0,69,84,Auvergne-Rhône-Alpes
+2019,Rhône,Auvergne et Rhône-Alpes,19.0,69,84,Auvergne-Rhône-Alpes
+2020,Rhône,Auvergne et Rhône-Alpes,16.0,69,84,Auvergne-Rhône-Alpes
+2024,Rhône,Auvergne et Rhône-Alpes,9.0,69,84,Auvergne-Rhône-Alpes
+2006,Haute-Saône,Bourgogne et Franche-Comté,3.0,70,27,Bourgogne-Franche-Comté
+2010,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2016,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2021,Haute-Saône,Bourgogne et Franche-Comté,0.0,70,27,Bourgogne-Franche-Comté
+2023,Haute-Saône,Bourgogne et Franche-Comté,3.0,70,27,Bourgogne-Franche-Comté
+2024,Haute-Saône,Bourgogne et Franche-Comté,3.0,70,27,Bourgogne-Franche-Comté
+2006,Saône-et-Loire,Bourgogne et Franche-Comté,8.0,71,27,Bourgogne-Franche-Comté
+2007,Saône-et-Loire,Bourgogne et Franche-Comté,0.0,71,27,Bourgogne-Franche-Comté
+2015,Saône-et-Loire,Bourgogne et Franche-Comté,17.0,71,27,Bourgogne-Franche-Comté
+2019,Saône-et-Loire,Bourgogne et Franche-Comté,13.0,71,27,Bourgogne-Franche-Comté
+2022,Saône-et-Loire,Bourgogne et Franche-Comté,8.0,71,27,Bourgogne-Franche-Comté
+2023,Saône-et-Loire,Bourgogne et Franche-Comté,12.0,71,27,Bourgogne-Franche-Comté
+2025,Saône-et-Loire,Bourgogne et Franche-Comté,7.0,71,27,Bourgogne-Franche-Comté
+2007,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2008,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2009,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2012,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2013,Sarthe,Pays de la Loire,0.0,72,52,Pays de la Loire
+2022,Sarthe,Pays de la Loire,4.0,72,52,Pays de la Loire
+2005,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2011,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2012,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2013,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2014,Savoie,Auvergne et Rhône-Alpes,0.0,73,84,Auvergne-Rhône-Alpes
+2015,Savoie,Auvergne et Rhône-Alpes,12.0,73,84,Auvergne-Rhône-Alpes
+2019,Savoie,Auvergne et Rhône-Alpes,8.0,73,84,Auvergne-Rhône-Alpes
+2024,Savoie,Auvergne et Rhône-Alpes,4.0,73,84,Auvergne-Rhône-Alpes
+2005,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2012,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2013,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2015,Haute-Savoie,Auvergne et Rhône-Alpes,12.0,74,84,Auvergne-Rhône-Alpes
+2016,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2017,Haute-Savoie,Auvergne et Rhône-Alpes,7.0,74,84,Auvergne-Rhône-Alpes
+2019,Haute-Savoie,Auvergne et Rhône-Alpes,8.0,74,84,Auvergne-Rhône-Alpes
+2020,Haute-Savoie,Auvergne et Rhône-Alpes,10.0,74,84,Auvergne-Rhône-Alpes
+2021,Haute-Savoie,Auvergne et Rhône-Alpes,0.0,74,84,Auvergne-Rhône-Alpes
+2023,Haute-Savoie,Auvergne et Rhône-Alpes,10.0,74,84,Auvergne-Rhône-Alpes
+2025,Haute-Savoie,Auvergne et Rhône-Alpes,11.0,74,84,Auvergne-Rhône-Alpes
+2004,Paris,Île-de-France,0.0,75,11,Île-de-France
+2005,Paris,Île-de-France,3.0,75,11,Île-de-France
+2006,Paris,Île-de-France,12.0,75,11,Île-de-France
+2007,Paris,Île-de-France,0.0,75,11,Île-de-France
+2009,Paris,Île-de-France,0.0,75,11,Île-de-France
+2011,Paris,Île-de-France,0.0,75,11,Île-de-France
+2012,Paris,Île-de-France,0.0,75,11,Île-de-France
+2014,Paris,Île-de-France,3.0,75,11,Île-de-France
+2016,Paris,Île-de-France,5.0,75,11,Île-de-France
+2018,Paris,Île-de-France,12.0,75,11,Île-de-France
+2019,Paris,Île-de-France,10.0,75,11,Île-de-France
+2021,Paris,Île-de-France,0.0,75,11,Île-de-France
+2022,Paris,Île-de-France,6.0,75,11,Île-de-France
+2005,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2007,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2011,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2012,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2014,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2017,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2022,Seine-Maritime,Normandie,3.0,76,28,Normandie
+2024,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2025,Seine-Maritime,Normandie,0.0,76,28,Normandie
+2004,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2010,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2013,Seine-et-Marne,Île-de-France,3.0,77,11,Île-de-France
+2015,Seine-et-Marne,Île-de-France,4.0,77,11,Île-de-France
+2018,Seine-et-Marne,Île-de-France,7.0,77,11,Île-de-France
+2021,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2024,Seine-et-Marne,Île-de-France,0.0,77,11,Île-de-France
+2025,Seine-et-Marne,Île-de-France,4.0,77,11,Île-de-France
+2004,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2006,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2009,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2013,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2016,Yvelines,Île-de-France,4.0,78,11,Île-de-France
+2018,Yvelines,Île-de-France,3.0,78,11,Île-de-France
+2021,Yvelines,Île-de-France,0.0,78,11,Île-de-France
+2022,Yvelines,Île-de-France,3.0,78,11,Île-de-France
+2004,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2015,Deux-Sèvres,Nouvelle Aquitaine,0.0,79,75,Nouvelle-Aquitaine
+2019,Deux-Sèvres,Nouvelle Aquitaine,6.0,79,75,Nouvelle-Aquitaine
+2020,Deux-Sèvres,Nouvelle Aquitaine,5.0,79,75,Nouvelle-Aquitaine
+2023,Deux-Sèvres,Nouvelle Aquitaine,4.0,79,75,Nouvelle-Aquitaine
+2024,Deux-Sèvres,Nouvelle Aquitaine,3.0,79,75,Nouvelle-Aquitaine
+2025,Deux-Sèvres,Nouvelle Aquitaine,9.0,79,75,Nouvelle-Aquitaine
+2007,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2009,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2010,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2012,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2013,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2016,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2017,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2018,Somme,Hauts-de-France,3.0,80,32,Hauts-de-France
+2020,Somme,Hauts-de-France,6.0,80,32,Hauts-de-France
+2024,Somme,Hauts-de-France,0.0,80,32,Hauts-de-France
+2008,Tarn,Occitanie,0.0,81,76,Occitanie
+2015,Tarn,Occitanie,0.0,81,76,Occitanie
+2017,Tarn,Occitanie,0.0,81,76,Occitanie
+2019,Tarn,Occitanie,9.0,81,76,Occitanie
+2021,Tarn,Occitanie,0.0,81,76,Occitanie
+2022,Tarn,Occitanie,14.0,81,76,Occitanie
+2023,Tarn,Occitanie,6.0,81,76,Occitanie
+2024,Tarn,Occitanie,0.0,81,76,Occitanie
+2025,Tarn,Occitanie,5.0,81,76,Occitanie
+2007,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2008,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2010,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2012,Tarn-et-Garonne,Occitanie,3.0,82,76,Occitanie
+2016,Tarn-et-Garonne,Occitanie,0.0,82,76,Occitanie
+2019,Tarn-et-Garonne,Occitanie,5.0,82,76,Occitanie
+2023,Tarn-et-Garonne,Occitanie,6.0,82,76,Occitanie
+2005,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2006,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2008,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2012,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2013,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2016,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2019,Var,Provence-Alpes-Côte d'Azur,4.0,83,93,Provence-Alpes-Côte d'Azur
+2021,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2022,Var,Provence-Alpes-Côte d'Azur,0.0,83,93,Provence-Alpes-Côte d'Azur
+2025,Var,Provence-Alpes-Côte d'Azur,23.0,83,93,Provence-Alpes-Côte d'Azur
+2011,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2012,Vaucluse,Provence-Alpes-Côte d'Azur,3.0,84,93,Provence-Alpes-Côte d'Azur
+2013,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2016,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2018,Vaucluse,Provence-Alpes-Côte d'Azur,6.0,84,93,Provence-Alpes-Côte d'Azur
+2019,Vaucluse,Provence-Alpes-Côte d'Azur,5.0,84,93,Provence-Alpes-Côte d'Azur
+2020,Vaucluse,Provence-Alpes-Côte d'Azur,0.0,84,93,Provence-Alpes-Côte d'Azur
+2021,Vaucluse,Provence-Alpes-Côte d'Azur,3.0,84,93,Provence-Alpes-Côte d'Azur
+2025,Vaucluse,Provence-Alpes-Côte d'Azur,13.0,84,93,Provence-Alpes-Côte d'Azur
+2004,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2007,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2008,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2015,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2018,Vendée,Pays de la Loire,5.0,85,52,Pays de la Loire
+2021,Vendée,Pays de la Loire,0.0,85,52,Pays de la Loire
+2023,Vendée,Pays de la Loire,7.0,85,52,Pays de la Loire
+2024,Vendée,Pays de la Loire,3.0,85,52,Pays de la Loire
+2013,Vienne,Nouvelle Aquitaine,0.0,86,75,Nouvelle-Aquitaine
+2019,Vienne,Nouvelle Aquitaine,8.0,86,75,Nouvelle-Aquitaine
+2022,Vienne,Nouvelle Aquitaine,3.0,86,75,Nouvelle-Aquitaine
+2023,Vienne,Nouvelle Aquitaine,10.0,86,75,Nouvelle-Aquitaine
+2025,Vienne,Nouvelle Aquitaine,4.0,86,75,Nouvelle-Aquitaine
+2006,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2007,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2009,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2015,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2017,Haute-Vienne,Nouvelle Aquitaine,0.0,87,75,Nouvelle-Aquitaine
+2022,Haute-Vienne,Nouvelle Aquitaine,8.0,87,75,Nouvelle-Aquitaine
+2024,Haute-Vienne,Nouvelle Aquitaine,3.0,87,75,Nouvelle-Aquitaine
+2009,Vosges,Grand Est,0.0,88,44,Grand Est
+2015,Vosges,Grand Est,5.0,88,44,Grand Est
+2020,Vosges,Grand Est,4.0,88,44,Grand Est
+2022,Vosges,Grand Est,3.0,88,44,Grand Est
+2023,Vosges,Grand Est,0.0,88,44,Grand Est
+2024,Vosges,Grand Est,0.0,88,44,Grand Est
+2004,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2005,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2009,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2010,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2014,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2017,Yonne,Bourgogne et Franche-Comté,3.0,89,27,Bourgogne-Franche-Comté
+2018,Yonne,Bourgogne et Franche-Comté,4.0,89,27,Bourgogne-Franche-Comté
+2020,Yonne,Bourgogne et Franche-Comté,4.0,89,27,Bourgogne-Franche-Comté
+2024,Yonne,Bourgogne et Franche-Comté,0.0,89,27,Bourgogne-Franche-Comté
+2004,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2007,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2009,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2010,Territoire de Belfort,Bourgogne et Franche-Comté,4.0,90,27,Bourgogne-Franche-Comté
+2011,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2012,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2015,Territoire de Belfort,Bourgogne et Franche-Comté,16.0,90,27,Bourgogne-Franche-Comté
+2017,Territoire de Belfort,Bourgogne et Franche-Comté,6.0,90,27,Bourgogne-Franche-Comté
+2018,Territoire de Belfort,Bourgogne et Franche-Comté,14.0,90,27,Bourgogne-Franche-Comté
+2020,Territoire de Belfort,Bourgogne et Franche-Comté,9.0,90,27,Bourgogne-Franche-Comté
+2022,Territoire de Belfort,Bourgogne et Franche-Comté,11.0,90,27,Bourgogne-Franche-Comté
+2024,Territoire de Belfort,Bourgogne et Franche-Comté,0.0,90,27,Bourgogne-Franche-Comté
+2006,Essonne,Île-de-France,3.0,91,11,Île-de-France
+2007,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2008,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2009,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2010,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2011,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2012,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2013,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2016,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2018,Essonne,Île-de-France,3.0,91,11,Île-de-France
+2023,Essonne,Île-de-France,0.0,91,11,Île-de-France
+2025,Essonne,Île-de-France,3.0,91,11,Île-de-France
+2005,Hauts-de-Seine,Île-de-France,3.0,92,11,Île-de-France
+2011,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2015,Hauts-de-Seine,Île-de-France,6.0,92,11,Île-de-France
+2018,Hauts-de-Seine,Île-de-France,12.0,92,11,Île-de-France
+2021,Hauts-de-Seine,Île-de-France,0.0,92,11,Île-de-France
+2008,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2009,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2012,Seine-Saint-Denis,Île-de-France,0.0,93,11,Île-de-France
+2016,Seine-Saint-Denis,Île-de-France,5.0,93,11,Île-de-France
+2017,Seine-Saint-Denis,Île-de-France,5.0,93,11,Île-de-France
+2023,Seine-Saint-Denis,Île-de-France,4.0,93,11,Île-de-France
+2005,Val-de-Marne,Île-de-France,3.0,94,11,Île-de-France
+2009,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2012,Val-de-Marne,Île-de-France,0.0,94,11,Île-de-France
+2014,Val-de-Marne,Île-de-France,3.0,94,11,Île-de-France
+2017,Val-de-Marne,Île-de-France,5.0,94,11,Île-de-France
+2020,Val-de-Marne,Île-de-France,7.0,94,11,Île-de-France
+2023,Val-de-Marne,Île-de-France,4.0,94,11,Île-de-France
+2004,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2005,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2006,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2007,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2008,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2009,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2014,Val-d'Oise,Île-de-France,0.0,95,11,Île-de-France
+2016,Val-d'Oise,Île-de-France,5.0,95,11,Île-de-France
+2018,Val-d'Oise,Île-de-France,3.0,95,11,Île-de-France
+2022,Val-d'Oise,Île-de-France,3.0,95,11,Île-de-France
