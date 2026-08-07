@@ -1,0 +1,5 @@
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+fourcasters_cle.json
+.env

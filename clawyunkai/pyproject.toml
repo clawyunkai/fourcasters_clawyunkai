@@ -1,0 +1,7 @@
+[project]
+name = "2026-08-les-fourcasters"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
