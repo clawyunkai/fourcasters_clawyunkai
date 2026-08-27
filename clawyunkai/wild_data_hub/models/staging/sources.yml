@@ -1,0 +1,35 @@
+version: 2
+
+sources:
+  # --- PREMIER DATASET : raw_database ---
+  - name: donnees_brutes
+    database: les-fourcasters
+    schema: raw_database
+    tables:
+      - name: open_meteo_archive
+        description : "Données open meteo complétées automatiquement"
+
+      - name: open_meteo_20000101_to_20260731
+        description : "Historique des données open meteo de 2000 à 2026 fait par mes collègues"
+        columns:
+          - name: row_hash
+            tests:
+              - not_null
+              - unique
+
+      - name: raw_daily_weather
+        description: "Données météo incrémentales quotidiennes"
+        columns:
+          - name: row_hash
+            description: "Clé unique générée par hachage de la ville et de la date"
+            tests:
+              - not_null
+              - unique
+
+  # --- DEUXIÈME DATASET : imports_csv ---
+  - name: referentiels
+    database: les-fourcasters
+    schema: imports_csv
+    tables:
+      - name: departements_latitude_longitude
+        description: "Référentiel des communes avec coordonnées et régions"

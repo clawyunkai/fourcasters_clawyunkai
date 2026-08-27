@@ -1,0 +1,80 @@
+[0m10:20:24.797120 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022358EE6C10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022358FA3190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022358EE65D0>]}
+
+
+============================== 10:20:24.800125 | 563c19b6-9a9b-4cdb-9a9f-ce3cf8a7fd71 ==============================
+[0m10:20:24.800125 [info ] [MainThread]: Running with dbt=1.12.3
+[0m10:20:24.801119 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'maximum_seed_size_mib': '1', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Chris-MSI-STEALTH\\.dbt', 'use_colors': 'True', 'hints_enabled': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'invocation_command': 'dbt init wild_data_hub', 'log_path': 'logs'}
+[0m10:20:25.192181 [debug] [MainThread]: Starter project path: E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\.venv\Lib\site-packages\dbt\include\starter_project
+[0m10:20:25.437779 [info ] [MainThread]: Setting up your profile.
+[0m10:24:20.116545 [info ] [MainThread]: Profile wild_data_hub written to C:\Users\Chris-MSI-STEALTH\.dbt\profiles.yml using target's profile_template.yml and your supplied values.
+[0m10:24:20.147817 [info ] [MainThread]: Running dbt debug to validate the project...
+[0m10:24:20.147817 [info ] [MainThread]: dbt version: 1.12.3
+[0m10:24:20.148819 [info ] [MainThread]: python version: 3.11.16
+[0m10:24:20.148819 [info ] [MainThread]: python path: E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\.venv\Scripts\python.exe
+[0m10:24:20.149816 [info ] [MainThread]: os info: Windows-10-10.0.26200-SP0
+[0m10:24:20.207008 [info ] [MainThread]: Using profiles dir at C:\Users\Chris-MSI-STEALTH\.dbt
+[0m10:24:20.208007 [info ] [MainThread]: Using profiles.yml file at C:\Users\Chris-MSI-STEALTH\.dbt\profiles.yml
+[0m10:24:20.209002 [info ] [MainThread]: Using dbt_project.yml file at E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\wild_data_hub\dbt_project.yml
+[0m10:24:20.209002 [info ] [MainThread]: adapter type: bigquery
+[0m10:24:20.209002 [info ] [MainThread]: adapter version: 1.12.0
+[0m10:24:20.290618 [info ] [MainThread]: Configuration:
+[0m10:24:20.291620 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m10:24:20.292140 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m10:24:20.292140 [info ] [MainThread]: Required dependencies:
+[0m10:24:20.293154 [debug] [MainThread]: Executing "git --help"
+[0m10:24:20.329310 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   history    EXPERIMENTAL: Rewrite history\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Set `HEAD` or the index to a known state\n   switch     Switch branches\n   tag        Create, list, delete or verify tags\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m10:24:20.329310 [debug] [MainThread]: STDERR: "b''"
+[0m10:24:20.330302 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m10:24:20.330813 [info ] [MainThread]: Connection:
+[0m10:24:20.330813 [info ] [MainThread]:   method: service-account
+[0m10:24:20.330813 [info ] [MainThread]:   database: les-fourcasters
+[0m10:24:20.331836 [info ] [MainThread]:   execution_project: les-fourcasters
+[0m10:24:20.331836 [info ] [MainThread]:   schema: dbt_dev
+[0m10:24:20.332842 [info ] [MainThread]:   location: US
+[0m10:24:20.332842 [info ] [MainThread]:   priority: interactive
+[0m10:24:20.332842 [info ] [MainThread]:   maximum_bytes_billed: None
+[0m10:24:20.333845 [info ] [MainThread]:   reservation: None
+[0m10:24:20.333845 [info ] [MainThread]:   impersonate_service_account: None
+[0m10:24:20.333845 [info ] [MainThread]:   job_retry_deadline_seconds: None
+[0m10:24:20.334845 [info ] [MainThread]:   job_retries: 1
+[0m10:24:20.334845 [info ] [MainThread]:   job_creation_timeout_seconds: None
+[0m10:24:20.334845 [info ] [MainThread]:   job_execution_timeout_seconds: 300
+[0m10:24:20.335845 [info ] [MainThread]:   job_link_info_level_log: False
+[0m10:24:20.335845 [info ] [MainThread]:   timeout_seconds: 300
+[0m10:24:20.336843 [info ] [MainThread]:   client_id: None
+[0m10:24:20.336843 [info ] [MainThread]:   token_uri: None
+[0m10:24:20.336843 [info ] [MainThread]:   compute_region: None
+[0m10:24:20.337854 [info ] [MainThread]:   dataproc_cluster_name: None
+[0m10:24:20.337854 [info ] [MainThread]:   gcs_bucket: None
+[0m10:24:20.337854 [info ] [MainThread]:   dataproc_batch: None
+[0m10:24:20.338841 [info ] [MainThread]: Registered adapter: bigquery=1.12.0
+[0m10:24:20.581501 [debug] [MainThread]: Acquiring new bigquery connection 'debug'
+[0m10:24:20.581501 [debug] [MainThread]: On debug: select 1 as id
+[0m10:24:20.581501 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m10:24:22.252749 [debug] [MainThread]: BigQuery adapter: https://console.cloud.google.com/bigquery?project=les-fourcasters&j=bq:US:41da3da5-8eed-48f8-b3da-583da7b2eb02&page=queryresults
+[0m10:24:22.559398 [debug] [MainThread]: SQL status: OK in 0.306 seconds
+[0m10:24:25.039495 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m10:24:25.040484 [info ] [MainThread]: [32mAll checks passed![0m
+[0m10:24:25.040484 [info ] [MainThread]: Your new dbt project "wild_data_hub" was created!
+Initialized new project in E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\wild_data_hub\wild_data_hub
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m10:24:25.041493 [debug] [MainThread]: Command `dbt init` succeeded at 10:24:25.041493 after 240.40 seconds
+[0m10:24:25.042734 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m10:24:25.042734 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002235903F0D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022358EE6490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002237A528910>]}
+[0m10:24:25.042734 [debug] [MainThread]: Flushing usage events
+[0m10:24:25.508763 [debug] [MainThread]: An error was encountered while trying to flush usage events

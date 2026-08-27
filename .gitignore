@@ -1,5 +1,14 @@
 *.csv
 __pycache__/
 .ipynb_checkpoints/
-fourcasters_cle.json
-.env
+
+# Environnements virtuels (couvre tous les sous-dossiers)
+.venv/
+**/.venv/
+
+# Clés de sécurité et identifiants GCP
+*.json
+
+# Fichiers système & temporaires
+.DS_Store
+__pycache__/
