@@ -1,0 +1,31 @@
+name: Run ELT Pipeline
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Toutes les 6 heures
+  workflow_dispatch:      # Bouton de lancement manuel
+
+jobs:
+  run-elt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout du code
+        uses: actions/checkout@v4
+        
+      - name: ☁️ Authentification GCP
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: '${{ secrets.CLAWYUNKAI_GCP_SA_KEY }}'
+          
+      - name: ⚡ Setup uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+          
+      - name: 🚀 1. Ingestion Python (API -> BigQuery)
+        working-directory: ./2026.08_Les_Fourcasters/clawyunkai
+        run: uv run python load_openmeteo_api.py
+
+      - name: 🛠️ 2. Transformation dbt (Staging + Marts)
+        working-directory: ./2026.08_Les_Fourcasters/clawyunkai/wild_data_hub
+        run: uv run dbt run
