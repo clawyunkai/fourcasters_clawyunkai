@@ -32,4 +32,4 @@ jobs:
 
       - name: 🛠️ 2. Transformation dbt (Staging + Marts)
         working-directory: ./clawyunkai/wild_data_hub
-        run: uv run dbt run
+        run: uv run dbt run --profiles-dir .

@@ -1,0 +1,14 @@
+wild_data_hub:
+  outputs:
+    dev:
+      dataset: dbt_dev
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\fourcasters_cle.json
+      location: us-central1
+      method: service-account
+      priority: interactive
+      project: les-fourcasters
+      threads: 4
+      type: bigquery
+  target: dev
