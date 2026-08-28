@@ -1,0 +1,41 @@
+version: 2
+
+models:
+
+  - name: stg_meteo_journaliere
+    description: >
+      Données météorologiques journalières Open-Meteo nettoyées
+      et renommées pour leur utilisation dans les modèles analytiques.
+
+    columns:
+
+      - name: row_hash
+        description: "Identifiant technique unique de la ligne météorologique."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: date
+        description: "Date de l'observation météorologique."
+        data_tests:
+          - not_null
+
+      - name: ville
+        description: "Commune ou point d'observation."
+        data_tests:
+          - not_null
+
+      - name: numero_departement
+        description: "Code du département du point d'observation."
+        data_tests:
+          - not_null
+
+      - name: latitude
+        description: "Latitude du point d'observation."
+        data_tests:
+          - not_null
+
+      - name: longitude
+        description: "Longitude du point d'observation."
+        data_tests:
+          - not_null

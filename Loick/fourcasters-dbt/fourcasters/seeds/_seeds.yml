@@ -1,0 +1,42 @@
+version: 2
+
+seeds:
+  - name: referentiel_communes
+    description: "Référentiel géographique fixe des 360 points d'observation du projet Fourcasters."
+
+    config:
+      column_types:
+        commune: STRING
+        latitude: FLOAT64
+        longitude: FLOAT64
+        region: STRING
+        departement: STRING
+        numero_departement: STRING
+        service: STRING
+        code_insee: STRING
+        centroide: BOOL
+
+    columns:
+      - name: commune
+        description: "Nom de la commune de référence."
+        data_tests:
+          - not_null
+
+      - name: code_insee
+        description: "Code INSEE unique de la commune."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: numero_departement
+        description: "Code du département conservé au format texte."
+        data_tests:
+          - not_null
+
+      - name: latitude
+        data_tests:
+          - not_null
+
+      - name: longitude
+        data_tests:
+          - not_null
