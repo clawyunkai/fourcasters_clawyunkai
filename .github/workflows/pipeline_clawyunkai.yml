@@ -23,6 +23,7 @@ jobs:
           enable-cache: true
 
       - name: 📦 Installation des dépendances
+        working-directory: ./clawyunkai
         run: uv sync
 
       - name: 🚀 1. Ingestion Python (API -> BigQuery)
