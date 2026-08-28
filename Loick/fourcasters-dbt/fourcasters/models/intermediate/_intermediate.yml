@@ -1,0 +1,52 @@
+version: 2
+
+models:
+
+  - name: int_meteo_communes
+    description: >
+      Historique météorologique enrichi avec le référentiel officiel
+      des 360 points d'observation. Chaque ligne météo est rattachée
+      à une commune, un département et une région.
+
+    columns:
+
+      - name: row_hash
+        description: "Identifiant technique unique d'une observation météorologique."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: date
+        description: "Date de l'observation météorologique."
+        data_tests:
+          - not_null
+
+      - name: code_insee
+        description: "Code INSEE de la commune associée au point météo."
+        data_tests:
+          - not_null
+
+      - name: commune
+        description: "Commune officielle issue du référentiel."
+        data_tests:
+          - not_null
+
+      - name: numero_departement
+        description: "Code officiel du département."
+        data_tests:
+          - not_null
+
+      - name: region
+        description: "Région associée à la commune."
+        data_tests:
+          - not_null
+
+      - name: latitude
+        description: "Latitude du point d'observation."
+        data_tests:
+          - not_null
+
+      - name: longitude
+        description: "Longitude du point d'observation."
+        data_tests:
+          - not_null

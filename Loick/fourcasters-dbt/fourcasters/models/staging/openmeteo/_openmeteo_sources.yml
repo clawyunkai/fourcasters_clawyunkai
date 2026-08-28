@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+
+  - name: openmeteo_raw
+    description: "Données météorologiques nettoyées stockées dans BigQuery."
+
+    database: "fourcasters-openmeteo-loick"
+    schema: "openmeteo_raw"
+
+    tables:
+
+      - name: meteo_journaliere
+        description: >
+          Historique météorologique journalier Open-Meteo.
+          Les colonnes géographiques dupliquées de la source initiale
+          ont été fusionnées avant leur utilisation dans dbt.

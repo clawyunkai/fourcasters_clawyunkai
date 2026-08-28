@@ -1,0 +1,113 @@
+version: 2
+
+models:
+
+  # ============================================================
+  # DIMENSION COMMUNE
+  # ============================================================
+
+  - name: dim_commune
+    description: >
+      Dimension géographique contenant les 360 points
+      d'observation météorologique du projet Fourcasters.
+
+    columns:
+
+      - name: code_insee
+        description: "Code INSEE unique de la commune."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: commune
+        description: "Nom officiel de la commune."
+        data_tests:
+          - not_null
+
+      - name: numero_departement
+        description: "Code du département."
+        data_tests:
+          - not_null
+
+      - name: region
+        description: "Région administrative."
+        data_tests:
+          - not_null
+
+      - name: latitude
+        description: "Latitude du point d'observation."
+        data_tests:
+          - not_null
+
+      - name: longitude
+        description: "Longitude du point d'observation."
+        data_tests:
+          - not_null
+
+
+  # ============================================================
+  # DIMENSION DATE
+  # ============================================================
+
+  - name: dim_date
+    description: >
+      Calendrier couvrant l'intégralité de la période
+      météorologique étudiée.
+
+    columns:
+
+      - name: date
+        description: "Date calendaire."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: annee
+        data_tests:
+          - not_null
+
+      - name: numero_mois
+        data_tests:
+          - not_null
+
+      - name: saison
+        data_tests:
+          - not_null
+
+
+  # ============================================================
+  # TABLE DE FAITS METEO
+  # ============================================================
+
+  - name: fact_meteo
+    description: >
+      Table de faits contenant une observation météorologique
+      quotidienne par point d'observation.
+
+    columns:
+
+      - name: id_observation_meteo
+        description: "Identifiant unique de l'observation."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: date
+        description: "Date de l'observation."
+        data_tests:
+          - not_null
+
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date
+
+      - name: code_insee
+        description: "Commune associée à l'observation."
+        data_tests:
+          - not_null
+
+          - relationships:
+              arguments:
+                to: ref('dim_commune')
+                field: code_insee
