@@ -185,18 +185,12 @@ def ingest_data():
                                 "date": daily_data["time"][i]
                             }
 
-                            # On crée un drapeau pour vérifier s'il y a des données
-                            has_valid_data = False
-                            
                             for var in VARIABLES_METEO:
                                 val = daily_data.get(var, [])[i] if daily_data.get(var) else None
                                 row[var] = val
-                                # Si au moins une variable n'est pas nulle, on lève le drapeau
-                                if val is not None:
-                                    has_valid_data = True
                                     
-                            # On n'ajoute la ligne QUE si le drapeau est levé
-                            if has_valid_data:
+                            # On n'ajoute la ligne QUE si la température est réellement présente
+                            if row.get("temperature_2m_mean") is not None:
                                 batch_weather_data.append(row)
 
                     print(f"-> OK : {commune_nom} (du {start_date_str} au {end_date_str})")
