@@ -1,0 +1,14 @@
+wild_data_hub:
+  outputs:
+    dev:
+      dataset: dbt_dev
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}"
+      location: us-central1
+      method: service-account
+      priority: interactive
+      project: les-fourcasters
+      threads: 4
+      type: bigquery
+  target: dev
