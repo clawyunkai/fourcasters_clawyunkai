@@ -37,3 +37,9 @@ models:
     marts:
       +materialized: table # Gold -> Tables physiques pour des requêtes BI ultra rapides
       +schema: marts       # Va créer un dataset "votre_dataset_marts"
+
+seeds:
+  wild_data_hub:
+    dim_code_meteo:
+      +column_types:
+        code_meteo: INT64
