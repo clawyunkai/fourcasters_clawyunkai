@@ -5,13 +5,21 @@ import json
 import hashlib
 import traceback
 from datetime import datetime, timezone, timedelta, date
+from dotenv import load_dotenv
 from google.cloud import bigquery
 
+# Charge les variables du fichier .env de votre ordinateur
+load_dotenv()
+
+# Le client BigQuery va maintenant trouver la clé tout seul
 client = bigquery.Client()
 
 # 1. TABLES BIGQUERY
-SOURCE_TABLE_ID = "les-fourcasters.imports_csv.departements_latitude_longitude"
-DEST_TABLE_ID = "les-fourcasters.raw_database.raw_daily_weather" # Table isolée pour les données chaudes
+SOURCE_TABLE_DEPARTEMENTS_ID = "les-fourcasters.imports_csv.departements_latitude_longitude"
+DEST_TABLE_OPEN-METEO_ID = "les-fourcasters.raw_database.raw_daily_weather" # Table isolée pour les données chaudes
+
+# Date de repli sortie en constance globale
+DEFAULT_START_DATE = "2026-08-01"
 
 # 2. VARIABLES MÉTÉO
 VARIABLES_METEO = [
@@ -48,18 +56,21 @@ def charger_dans_bigquery(data: list):
     if not data:
         return
     data_enrichie = enrichir_lignes(data)
+    
     job_config = bigquery.LoadJobConfig(
-        write_disposition="WRITE_APPEND"
+        write_disposition="WRITE_APPEND",
+        schema_update_options=[bigquery.SchemaUpdateOption.ALLOW_FIELD_ADDITION]
     )
-    load_job = client.load_table_from_json(data_enrichie, DEST_TABLE_ID, job_config=job_config)
+    load_job = client.load_table_from_json(data_enrichie, DEST_TABLE_OPEN-METEO_ID, job_config=job_config)
     load_job.result()
 
-def ingest_data():
+# Requête API Open-meteo
+def ingest_data_open_meteo():
     """Fonction principale d'ingestion appelée par le pipeline."""
     try:
         # 3. CRÉATION DE LA TABLE SI ELLE N'EXISTE PAS (Avec types sécurisés en FLOAT64)
         create_table_query = f"""
-            CREATE TABLE IF NOT EXISTS `{DEST_TABLE_ID}` (
+            CREATE TABLE IF NOT EXISTS `{DEST_TABLE_OPEN-METEO_ID}` (
                 Commune STRING,
                 Latitude FLOAT64,
                 Longitude FLOAT64,
@@ -109,14 +120,14 @@ def ingest_data():
         query_villes = f"""
             WITH all_villes AS (
                 SELECT Commune, Latitude, Longitude, `Région`, Departement, Numero_Departement, `code INSEE` as code_insee
-                FROM `{SOURCE_TABLE_ID}`
+                FROM `{SOURCE_TABLE_DEPARTEMENTS_ID}`
             )
             SELECT v.Commune, v.Latitude, v.Longitude, v.`Région`, v.Departement, v.Numero_Departement, v.code_insee,
                    d.max_date
             FROM all_villes v
             LEFT JOIN (
                 SELECT Commune, MAX(date) as max_date 
-                FROM `{DEST_TABLE_ID}` 
+                FROM `{DEST_TABLE_OPEN-METEO_ID}` 
                 GROUP BY Commune
             ) d ON v.Commune = d.Commune
             WHERE d.max_date IS NULL OR d.max_date < '{end_date_str}'
@@ -146,8 +157,8 @@ def ingest_data():
                 start_date_dt = dt_derniere + timedelta(days=1)
                 start_date_str = start_date_dt.strftime("%Y-%m-%d")
             else:
-                # La date de repli corrigée !
-                start_date_str = "2026-08-01"
+                # La date de repli!
+                start_date_str = DEFAULT_START_DATE
 
             url = "https://archive-api.open-meteo.com/v1/archive"
             
@@ -166,7 +177,7 @@ def ingest_data():
                 response = requests.get(url, params=params)
                 try:
                     data = response.json()
-                except:
+                except ValueError:
                     data = {}
 
                 if response.status_code == 200 and not data.get("error"):
@@ -186,11 +197,12 @@ def ingest_data():
                             }
 
                             for var in VARIABLES_METEO:
-                                val = daily_data.get(var, [])[i] if daily_data.get(var) else None
-                                row[var] = val
+                                var_list = daily_data.get(var)
+                                val = var_list[i] if var_list and i < len(var_list) else None
+                                row[var] = val  
                                     
                             # On n'ajoute la ligne QUE si la température est réellement présente
-                            if row.get("temperature_2m_mean") is not None:
+                            if any(row.get(var) is not None for var in VARIABLES_METEO):
                                 batch_weather_data.append(row)
 
                     print(f"-> OK : {commune_nom} (du {start_date_str} au {end_date_str})")
@@ -220,7 +232,8 @@ def ingest_data():
     except Exception as e:
         error_detail = traceback.format_exc()
         print(f"🔥 ERREUR CRITIQUE : {error_detail}")
+        raise
 
 # 6. EXÉCUTION
 if __name__ == "__main__":
-    ingest_data()
+    ingest_data_open_meteo()

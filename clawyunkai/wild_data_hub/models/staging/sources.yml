@@ -25,6 +25,18 @@ sources:
             tests:
               - not_null
               - unique
+      
+      - name: odisse_canicule_nb_jours_departement
+        description: "Le nombre de jours de canicules annuels, selon la définition du système d'alerte canicule et santé, est calculé à partir des données de températures minimales et maximales fournies par Météo-France pour une station de référence par département."
+
+      - name: odisse_canicule_population_concerne_departement
+        description: "Taille de la population exposée à au moins un jour de canicule dans l'année, selon la définition du système d'alerte canicule et santé, calculé à partir des données de températures minimales et maximales fournies par Météo-France pour une station de référence par département."
+
+      - name: odisse_canicule_deces_attribuable_departement
+        description: "Nombre et fraction de décès toutes causes attribuables à la chaleur chaque année (tous âges et 75 ans et plus), pendant la période de surveillance (1er Juin - 15 Septembre) et pendant les canicules."
+      
+      - name: odisse_canicule_severite_departement
+        description: "Sévérité annuelle des canicules pour chaque année et département. La sévérité est définie, à l'échelle départementale, comme la somme des écarts des températures minimale et maximale observées aux seuils d'alerte associés, pendant les jours de canicule."
 
   # --- DEUXIÈME DATASET : imports_csv ---
   - name: referentiels

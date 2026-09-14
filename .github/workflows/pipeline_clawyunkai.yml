@@ -28,7 +28,7 @@ jobs:
 
       - name: 🚀 1. Ingestion Python (API -> BigQuery)
         working-directory: ./clawyunkai
-        run: uv run python load_openmeteo_api.py
+        run: uv run python 01_Ingestion_API.py
 
       - name: 🛠️ 2. Transformation dbt (Staging + Marts)
         working-directory: ./clawyunkai/wild_data_hub
