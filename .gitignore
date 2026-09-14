@@ -5,6 +5,7 @@ __pycache__/
 # Environnements virtuels (couvre tous les sous-dossiers)
 .venv/
 **/.venv/
+.env
 
 # Clés de sécurité et identifiants GCP
 *.json
