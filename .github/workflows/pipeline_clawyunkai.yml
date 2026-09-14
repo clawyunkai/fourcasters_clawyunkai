@@ -1,16 +1,16 @@
 name: Run ELT Pipeline
 
 on:
+  workflow_dispatch:   
   schedule:
-    - cron: '21 2 * * *' 
-  workflow_dispatch:      
+    - cron: '21 2 * * *'     
 
 jobs:
   run-elt:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout du code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: ☁️ Authentification GCP
         uses: google-github-actions/auth@v2
