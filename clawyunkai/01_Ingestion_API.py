@@ -173,7 +173,6 @@ def ingest_data_open_meteo():
             }
             
             while True:
-                response = requests.get(url, params=params)
                 try:
                     # 1. On impose un délai maximum de 15 secondes
                     response = requests.get(url, params=params, timeout=15)
@@ -190,7 +189,7 @@ def ingest_data_open_meteo():
                     # 3. Si l'API est vraiment hors ligne, on passe à la ville suivante sans crasher
                     logger.error(f"❌ Erreur réseau critique pour {commune_nom}: {e}")
                     break
-                
+
                 except ValueError:
                     data = {}
 
