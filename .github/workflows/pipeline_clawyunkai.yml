@@ -1,0 +1,65 @@
+name: Run ELT Pipeline
+
+on:
+  workflow_dispatch:   
+  schedule:
+    - cron: '21 2 * * *'     
+
+# jobs:
+#   run-elt:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: 📥 Checkout du code
+#         uses: actions/checkout@v5
+
+#       - name: ☁️ Authentification GCP
+#         uses: google-github-actions/auth@v2
+#         with:
+#           credentials_json: '${{ secrets.CLAWYUNKAI_GCP_SA_KEY }}'
+
+#       - name: ⚡ Setup uv
+#         uses: astral-sh/setup-uv@v3
+#         with:
+#           enable-cache: true
+
+#       - name: 📦 Installation des dépendances
+#         working-directory: ./clawyunkai
+#         run: uv sync
+
+#       - name: 🚀 1. Ingestion Python (API -> BigQuery)
+#         working-directory: ./clawyunkai
+#         run: uv run python 01_Ingestion_API.py
+
+#       - name: 🛠️ 2. Transformation dbt (Staging + Marts)
+#         working-directory: ./clawyunkai/wild_data_hub
+#         run: uv run dbt run --profiles-dir .
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: echo '${{ secrets.CLAWYUNKAI_GCP_SA_KEY }}' > "$GITHUB_WORKSPACE/fourcasters_cle.json"
+      - name: Configurer le profil dbt        # LES 3 VALEURS A ADAPTER
+        run: |
+          mkdir -p ~/.dbt
+          cat > ~/.dbt/profiles.yml <<EOF
+          dbt_project:
+            target: dev
+            outputs:
+              dev:
+                type: bigquery
+                method: service-account
+                project: les-fourcasters
+                dataset: dbt_dev
+                keyfile: $GITHUB_WORKSPACE/fourcasters_cle.json
+                location: us-central1
+          EOF
+      - name: Lancer le pipeline
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/fourcasters_cle.json
+        run: python 01_Ingestion_API.py
