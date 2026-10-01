@@ -78,3 +78,48 @@ Happy modeling!
 [0m10:24:25.042734 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002235903F0D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022358EE6490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002237A528910>]}
 [0m10:24:25.042734 [debug] [MainThread]: Flushing usage events
 [0m10:24:25.508763 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m10:24:48.255052 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD35791890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD355D4A90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD35791710>]}
+
+
+============================== 10:24:48.260602 | eb20b700-96d9-4c73-a43e-2f46a622a399 ==============================
+[0m10:24:48.260602 [info ] [MainThread]: Running with dbt=1.12.3
+[0m10:24:48.260602 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'maximum_seed_size_mib': '1', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'False', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\Chris-MSI-STEALTH\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'invocation_command': 'dbt run --select canicules_features', 'hints_enabled': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'use_colors': 'True', 'log_path': 'logs'}
+[0m10:24:48.261603 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m10:24:48.262603 [debug] [MainThread]: Command `dbt run` failed at 10:24:48.262603 after 0.13 seconds
+[0m10:24:48.262603 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD357ABB90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD357A8510>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FD35697DD0>]}
+[0m10:24:48.262603 [debug] [MainThread]: Flushing usage events
+[0m10:24:48.806087 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m15:07:34.492702 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181A3C25D50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181A881DCD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181A8919E90>]}
+
+
+============================== 15:07:34.496859 | faafc780-7d8d-4820-b4fb-cebb71ecca44 ==============================
+[0m15:07:34.496859 [info ] [MainThread]: Running with dbt=1.12.3
+[0m15:07:34.497388 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'maximum_seed_size_mib': '1', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'False', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Chris-MSI-STEALTH\\.dbt', 'use_colors': 'True', 'hints_enabled': 'True', 'invocation_command': 'dbt run --select canicule_features', 'use_experimental_parser': 'False', 'indirect_selection': 'eager', 'log_path': 'logs'}
+[0m15:07:34.498393 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m15:07:34.499398 [debug] [MainThread]: Command `dbt run` failed at 15:07:34.499398 after 0.12 seconds
+[0m15:07:34.499398 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181A8756590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181A8816010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181A8817550>]}
+[0m15:07:34.499398 [debug] [MainThread]: Flushing usage events
+[0m15:07:34.989694 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m15:07:49.519212 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027344F5B4D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027344E57710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027344F5A2D0>]}
+
+
+============================== 15:07:49.527217 | a0ecb1ad-bcd4-4977-b954-9f58550f01ae ==============================
+[0m15:07:49.527217 [info ] [MainThread]: Running with dbt=1.12.3
+[0m15:07:49.528217 [debug] [MainThread]: running dbt with arguments {'maximum_seed_size_mib': '1', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'False', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Chris-MSI-STEALTH\\.dbt', 'indirect_selection': 'eager', 'hints_enabled': 'True', 'invocation_command': 'dbt run --select canicule_features', 'use_experimental_parser': 'False', 'use_colors': 'True', 'log_path': 'logs'}
+[0m15:07:49.529217 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path E:\FORM - DATA ANALYST\02_Ressources\VSCode_projet\2026.08_Les_Fourcasters\clawyunkai\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m15:07:49.530218 [debug] [MainThread]: Command `dbt run` failed at 15:07:49.530218 after 0.12 seconds
+[0m15:07:49.530218 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027344E56310>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027344E56ED0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027344E5FFD0>]}
+[0m15:07:49.530218 [debug] [MainThread]: Flushing usage events
+[0m15:07:49.970899 [debug] [MainThread]: An error was encountered while trying to flush usage events
