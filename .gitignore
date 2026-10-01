@@ -13,3 +13,5 @@ __pycache__/
 # Fichiers système & temporaires
 .DS_Store
 __pycache__/
+
+logs/
